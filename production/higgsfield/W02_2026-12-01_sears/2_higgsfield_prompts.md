@@ -1,6 +1,6 @@
 # How Sears, the Amazon of 1900, Destroyed Itself: Higgsfield prompts
 
-Publish 2026-12-01 · about 9.3 min · 12 Sam clips · 12 recreation clips · 11 archive items to source.
+Publish 2026-12-01 · about 15.6 min · 15 Sam clips · 12 recreation clips · 13 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -123,7 +123,15 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Makes a small circle with one finger on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_04.mp4** · 14s · start `w02_still_sam_study.png` · audio `w02_sam_04.mp3`
+**w02_sam_04.mp4** · 7s · start `w02_still_sam_study.png` · audio `w02_sam_04.mp3`
+
+> That attitude is the whole company in one sentence. Remember that. It comes back.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Taps two fingers on the desk, unhurried. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w02_sam_05.mp4** · 14s · start `w02_still_sam_study.png` · audio `w02_sam_05.mp3`
 
 > That building is the high point of this story. And if you know anything about these stories, you know what usually happens to companies right after they build a monument to themselves.
 
@@ -131,7 +139,15 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans back in the chair. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_05.mp4** · 13s · start `w02_still_sam_location.png` · audio `w02_sam_05.mp3`
+**w02_sam_06.mp4** · 11s · start `w02_still_sam_study.png` · audio `w02_sam_06.mp3`
+
+> Now, here's where most versions of this story jump straight to Amazon. Don't. Because there's a chapter in between that almost nobody tells.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Holds up one hand, pausing the story. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w02_sam_07.mp4** · 13s · start `w02_still_sam_location.png` · audio `w02_sam_07.mp3`
 
 > Now watch this. By the time Jeff Bezos started Amazon in 1994, Sears had a hundred years of catalogs, a national delivery network, and a stake in an online store.
 
@@ -139,7 +155,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks between two sheet-covered mannequins and stops. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_06.mp4** · 6s · start `w02_still_sam_location.png` · audio `w02_sam_06.mp3`
+**w02_sam_08.mp4** · 6s · start `w02_still_sam_location.png` · audio `w02_sam_08.mp3`
 
 > It had everything Amazon needed. Except the belief that it mattered.
 
@@ -147,7 +163,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Lifts the edge of a dust sheet and lets it drop. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_07.mp4** · 8s · start `w02_still_sam_location.png` · audio `w02_sam_07.mp3`
+**w02_sam_09.mp4** · 8s · start `w02_still_sam_location.png` · audio `w02_sam_09.mp3`
 
 > Imagine your kitchen and your bedroom fighting over the electric bill. That's roughly what happened.
 
@@ -155,7 +171,15 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Gestures to the dark floor around him. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_08.mp4** · 8s · start `w02_still_sam_boardroom.png` · audio `w02_sam_08.mp3`
+**w02_sam_10.mp4** · 14s · start `w02_still_sam_location.png` · audio `w02_sam_10.mp3`
+
+> Here's the thing. Nobody had to be a villain for this to go wrong. You just needed a company where the person deciding wasn't the person who'd live with the result.
+
+```
+@Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Stands still beside a covered rack, voice low. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w02_sam_11.mp4** · 8s · start `w02_still_sam_boardroom.png` · audio `w02_sam_11.mp3`
 
 > So what killed Sears? Most people say Amazon. Some say Walmart. Some say one man in Connecticut.
 
@@ -163,7 +187,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets an old catalog on the long table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_09.mp4** · 13s · start `w02_still_sam_boardroom.png` · audio `w02_sam_09.mp3`
+**w02_sam_12.mp4** · 13s · start `w02_still_sam_boardroom.png` · audio `w02_sam_12.mp3`
 
 > Here's my verdict. Sears lost the moment it stopped seeing itself as a machine for getting things to people, and started seeing itself as a pile of assets.
 
@@ -171,7 +195,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the catalog. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_10.mp4** · 12s · start `w02_still_sam_boardroom.png` · audio `w02_sam_10.mp3`
+**w02_sam_13.mp4** · 12s · start `w02_still_sam_boardroom.png` · audio `w02_sam_13.mp3`
 
 > That's worth remembering at work. When a company starts asking what its pieces are worth, instead of what its customers need, the countdown has started.
 
@@ -179,7 +203,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_11.mp4** · 12s · start `w02_still_sam_boardroom.png` · audio `w02_sam_11.mp3`
+**w02_sam_14.mp4** · 12s · start `w02_still_sam_boardroom.png` · audio `w02_sam_14.mp3`
 
 > Did your family have something from Sears that lasted forever? A Craftsman wrench, a Kenmore? Tell me what it was. Some of those are still running.
 
@@ -187,7 +211,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w02_sam_12.mp4** · 10s · start `w02_still_sam_boardroom.png` · audio `w02_sam_12.mp3`
+**w02_sam_15.mp4** · 10s · start `w02_still_sam_boardroom.png` · audio `w02_sam_15.mp3`
 
 > Next, the toy store every kid begged to go to, and the loan that killed it. Toys R Us. It's right here.
 

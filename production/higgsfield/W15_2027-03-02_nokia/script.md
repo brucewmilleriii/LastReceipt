@@ -50,6 +50,12 @@ SAM (study) {puts the phone down}: I'm Sam. This is Last Receipt. Tonight, the r
 
 Nokia began in 1865 as a paper mill in southern Finland, on a river near a town called Nokia. For the next hundred years, it wasn't a tech company at all. It merged with a rubber company and a cable company. It made paper, car tyres, power cables, and rubber boots. Lots of rubber boots.
 
+The founder was a mining engineer named Fredrik Idestam, who'd seen a new way of making paper from wood pulp on a trip to Germany. Finland had endless forests and fast rivers to power the mills. It was a sensible business in a sensible country, and for a century nothing about it suggested phones.
+
+[ARCHIVE: Nokia trade with the Soviet Union, 1970s to 1980s; Finnish factory photos | Nokia Soviet Union trade 1980s]
+
+Then came the eighties, and a lot of Nokia's business was selling to its giant neighbor, the Soviet Union. When the Soviet Union fell apart in 1991, those customers disappeared almost overnight. Finland went into a deep recession. Nokia was in serious trouble, and some people thought it might be sold off in pieces.
+
 [REC 03 | 1960s | A Finnish factory shelf of black rubber work boots lined up in pairs, a worker in overalls checking soles with his thumb, 1960s, flat daylight | He flexes a sole, nods, sets the boot back in line; camera static, medium | 5]
 
 SAM (study) {dry smile}: Here's the thing about Nokia. It had already reinvented itself completely, once. That should have been its superpower.
@@ -57,6 +63,8 @@ SAM (study) {dry smile}: Here's the thing about Nokia. It had already reinvented
 [ARCHIVE: Mobira Cityman phone, 1987; Gorbachev photographed using one | Mobira Cityman Gorbachev]
 
 In the eighties it moved into electronics, and then into the brand new business of mobile phones. Car phones the size of briefcases. Then, in 1992, a new boss, Jorma Ollila, made a huge bet. Sell off almost everything else. Bet the company on mobile phones.
+
+Ollila had been running the phone division. He was a former banker, and he was blunt. He looked at a company that made boots, tyres, TVs, cables and computers, and decided it couldn't be good at all of them. So Nokia sold the boots, the tyres, the TVs and the computers. In a country in recession, that took nerve. Nokia was betting a hundred and twenty-seven years of history on a gadget most people didn't own yet.
 
 ## Chapter 2: The world's phone (3:30 to 6:30)
 
@@ -66,6 +74,14 @@ In the eighties it moved into electronics, and then into the brand new business 
 
 The timing was perfect. Europe had agreed on a single digital mobile standard called GSM, and Nokia was ready for it. Nokia made phones that looked good, were easy to use, and kept working when you dropped them. It came up with the ringtone everyone knew. And Snake.
 
+[ARCHIVE: First GSM call in Finland, July 1991 | first GSM call 1991 Finland]
+
+Nokia was in at the very start. The world's first call on the new GSM network was made in Finland in 1991, on Nokia equipment, by the Finnish prime minister. And the next year Nokia brought out one of the first GSM phones you could actually buy.
+
+That ringtone, by the way, came from a piece of Spanish guitar music written around 1902. Nokia's engineers needed a few notes for a phone, picked a phrase from it, and turned it into one of the most played tunes in human history. Snake was written by an engineer on a phone with a black-and-white screen, and suddenly millions of people had a game in their pocket.
+
+Nokia also understood something the American and Japanese phone makers were slow to see. People wanted their phone to say something about them. So Nokia made phones with swappable covers in every color, phones with funny shapes, and a curved slider phone that showed up in The Matrix. A phone stopped being a tool. It became an accessory.
+
 [REC 04 | 2000s | A crowded European city street in 2003, people in winter coats talking on small candybar phones, one woman texting with one thumb while walking, overcast daylight | She stops at a crossing still texting and nearly bumps someone; camera handheld, walking with her | 6]
 
 In 1998, Nokia passed Motorola to become the biggest phone maker in the world. It sold cheap, tough phones in India, Africa and China, and stylish ones in London and Milan. One basic model sold well over two hundred million units.
@@ -73,6 +89,8 @@ In 1998, Nokia passed Motorola to become the biggest phone maker in the world. I
 [GFX: Line chart, Nokia share of global phone sales, 1995 to 2008, peaking near 40%]
 
 At its height Nokia was the most valuable company in Europe, and by itself a huge part of Finland's economy.
+
+At one point, Nokia was responsible for a large slice of everything Finland sold abroad. Finnish students dreamed of working there. Its headquarters near Helsinki was a glass building by the sea, and its engineers were treated like national heroes. When Nokia did well, Finland did well. Remember that, because when Nokia fell, a whole country felt it.
 
 SAM (location) {walks along a row of empty white workbenches}: Think about that. One company, in a country of five and a half million people, made about four in every ten phones on Earth.
 
@@ -83,6 +101,8 @@ SAM (location) {walks along a row of empty white workbenches}: Think about that.
 Now here's what almost nobody knows.
 
 [REC 05 | 2000s | A Nordic research lab in 2004, an engineer showing a colleague a prototype phone with a large touchscreen displaying a map and a web page (screen content blurred), clean desks, snow outside | The engineer swipes the screen and turns it to show his colleague; camera static, medium | 6]
+
+And it wasn't Nokia's first look at the future either. Back in 1996, it had sold the Communicator, a phone that opened up like a tiny laptop, with a keyboard, email and a web browser. It was expensive and heavy, but business travelers loved it. So the idea of a phone as a pocket computer had been inside Nokia for a decade.
 
 Around 2004, engineers inside Nokia built a prototype. A phone with a big color touchscreen, online maps, and a web browser. It was, according to people who worked on it, a lot like what the iPhone turned out to be three years later.
 
@@ -96,6 +116,8 @@ Nokia did make smartphones. Lots of them. They ran software called Symbian, buil
 
 In 2007, Apple released the iPhone. Nokia's leaders were not impressed, at first. It didn't even have 3G. Their phones were tougher and cheaper. They sold more phones that year than ever.
 
+That same year, Nokia made a big move of its own. It paid about eight billion dollars for a company that made digital maps, the kind used in car navigation. The idea was that Nokia phones would have the best maps in the world. It was a smart purchase, and those maps lived on for years in cars and apps. But a great map needs a great phone to run on, and great apps to use it. Nokia had the map, and not the rest.
+
 SAM (study) {holds up one finger}: That's the trap. The year your replacement arrives is often your best year ever. The numbers tell you you're winning, right up until they don't.
 
 ## Chapter 4: The burning platform (9:30 to 12:30)
@@ -106,17 +128,25 @@ SAM (study) {holds up one finger}: That's the trap. The year your replacement ar
 
 Within three years, it was obvious. People wanted apps. Developers wanted one system to build for. Google's Android was free, and it was spreading to every phone maker on Earth. Nokia's software was falling behind fast.
 
+Inside Nokia, people knew. Engineers argued about it. Teams worked on new software in parallel, sometimes competing with each other for money and attention. Later, researchers who interviewed Nokia managers described a company where middle managers were afraid to tell the top how bad things were, and top managers were afraid to tell the outside world. Everyone could see the fire. Nobody wanted to be the one to shout it.
+
 [ARCHIVE: Stephen Elop photos; coverage of the "burning platform" memo and the Microsoft partnership, February 2011 | Stephen Elop Nokia 2011 burning platform]
 
 In 2010 Nokia hired a new chief executive from outside, the first non-Finn to run it. Stephen Elop, from Microsoft. In February 2011 he wrote an internal memo that leaked to the whole world. He said Nokia was standing on a burning platform, and had to jump.
 
 SAM (location) {raises his eyebrows}: Funny thing. Lego's boss used the same phrase a few years earlier, and it saved Lego. The difference was where they jumped.
 
+[GFX: Three doors: "Keep Symbian/MeeGo", "Android", "Windows Phone"; the third lights up]
+
 Days later, Nokia announced it would drop its own software for its best phones and use Microsoft's Windows Phone. Not Android, which was already winning. Windows. Its Symbian sales collapsed almost overnight, because who wants to buy a phone the company has just told you is dead?
 
 [REC 07 | 2010s | A brightly coloured smartphone in a store display stand, untouched, while customers cluster around a crowded table of other phones nearby, 2012 | A customer picks up the coloured phone, looks at it, puts it back; camera static, medium | 5]
 
 The new phones, called Lumia, were well made and well reviewed. But the app store was thin, and buyers had moved on.
+
+[ARCHIVE: Nokia N9 with MeeGo, 2011 (product photos) | Nokia N9 MeeGo]
+
+And here's a painful footnote. Around the same time, a team inside Nokia had finished a phone running its own new software, called MeeGo. It was called the N9. Reviewers loved it. It was smooth, beautiful, and swiped in a way that felt fresh. Nokia released it in only a few countries and then let it go, because the company had already chosen Windows. For the second time, Nokia had the right phone in its hands, and put it down.
 
 [REC 08 | 2010s | Factory workers in a Finnish electronics plant walking out of the gates at the end of a shift in winter dusk, some carrying bags, sodium lights | A worker looks back at the building before leaving; camera static, wide | 6]
 
@@ -128,9 +158,15 @@ The new phones, called Lumia, were well made and well reviewed. But the app stor
 
 In 2013, Nokia sold its entire phone business to Microsoft, for about five and a half billion euros. Elop went with it. Two years later, Microsoft wrote most of that value off and cut thousands of jobs.
 
+In Finland, it felt like a national loss. Tens of thousands of Nokia jobs disappeared over those years. But something unexpected happened next. Thousands of skilled engineers were suddenly free, and many of them started their own companies. Finnish startups, especially in mobile games, boomed in the years after. Some of the most successful mobile games in the world were made by people who'd learned their trade at Nokia.
+
 [REC 09 | 2010s | A cardboard box of old candybar phones and chargers on an electronics recycling centre conveyor, a worker sorting them into bins | The worker lifts a phone, glances at it, tosses it into a bin; camera static, close | 5]
 
 [GFX: Physical number: "At its 2000 peak, Nokia was valued at over €250 billion. The phone business sold for about €5.4 billion."]
+
+[ARCHIVE: 2017 relaunch of the Nokia 3310 under licence | Nokia 3310 2017 relaunch]
+
+And in 2017, the company licensing the Nokia name brought back a version of the 3310, the chunky one with Snake. It sold out in places. People didn't want it as their main phone. They wanted to hold that feeling again for a minute.
 
 But here's the twist. Nokia isn't dead. It kept its networks business, the equipment that phone companies use to run their networks. Today it's one of the world's biggest makers of 5G gear. And the Nokia name on phones lives on under licence.
 
@@ -141,6 +177,10 @@ SAM (study) {nods slowly}: The company that made boots, then cables, then phones
 [REC 11 | modern | An old grey candybar phone lying on a wooden table beside a modern smartphone, soft window light 5600 K | A hand picks up the old phone, presses a button, and the green screen lights up; camera static, close | 5]
 
 ## The verdict (14:00 to 15:30)
+
+[GFX: Timeline recap: 1865 paper mill, 1992 all-in on phones, 1998 world's biggest phone maker, 2004 touchscreen prototype, 2007 iPhone, 2011 burning platform memo, 2011 Windows deal, 2013 phones sold to Microsoft]
+
+Let's go back over it. A paper mill that became a rubber company, then a cable company, then the world's phone maker. A bet on mobile that saved it from a recession. A decade of tough, beautiful, cheap phones. Then a touchscreen prototype left in a drawer, a software system nobody wanted to build for, and finally a jump to the wrong platform.
 
 SAM (boardroom) {stands at the head of the table, the grey phone on the table}: So what killed Nokia's phone business? The iPhone. Android. Windows. All true.
 
@@ -180,6 +220,19 @@ Sources: Nokia annual reports and 20-F filings; Risto Siilasmaa, *Transforming N
 | 12 | Lego's Knudstorp also used "burning platform" | Robertson book |
 | 13 | Microsoft deal 2013, about €5.44B; write-down 2015 | Figures |
 | 14 | Nokia networks among largest 5G vendors; brand licensed (HMD) | Current |
+| 15 | Founder Fredrik Idestam, mining engineer, wood-pulp paper | Source |
+| 16 | Soviet trade collapse and Finland's early-1990s recession hit Nokia | Source |
+| 17 | Ollila sold rubber, tyres, cables, TVs, computers in the 1990s | Dates |
+| 18 | First GSM call July 1991 by PM Harri Holkeri on Nokia equipment; Nokia 1011 in 1992 | Dates |
+| 19 | Nokia tune from Tárrega's Gran Vals (1902) | Source |
+| 20 | Swappable covers; Nokia 8110 in The Matrix | Source |
+| 21 | Nokia share of Finnish exports at peak | Figure |
+| 22 | Nokia 9000 Communicator 1996 | Date |
+| 23 | Navteq bought 2007 for about $8.1 billion | Figure |
+| 24 | Nokia N9 (MeeGo), 2011, limited release | Source |
+| 25 | Finnish startup and games boom after Nokia layoffs | Source |
+| 26 | Researchers (Vuori and Huy, 2015) on fear among Nokia managers | Cite paper |
+| 27 | HMD relaunched the Nokia 3310 in 2017 | Date |
 
 ## Shorts cut from this video
 

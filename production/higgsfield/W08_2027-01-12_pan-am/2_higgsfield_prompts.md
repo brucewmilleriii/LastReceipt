@@ -1,6 +1,6 @@
 # Pan Am: The Airline That Was America: Higgsfield prompts
 
-Publish 2027-01-12 · about 6.3 min · 12 Sam clips · 12 recreation clips · 7 archive items to source.
+Publish 2027-01-12 · about 12.7 min · 13 Sam clips · 12 recreation clips · 12 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -139,7 +139,15 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Looks out at the empty apron. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_06.mp4** · 13s · start `w08_still_sam_study.png` · audio `w08_sam_06.mp3`
+**w08_sam_06.mp4** · 9s · start `w08_still_sam_location.png` · audio `w08_sam_06.mp3`
+
+> Picture owning the best bridge in the world, with no roads leading to it. That's Pan Am in 1980.
+
+```
+@Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Sits on the arm of an empty seat. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w08_sam_07.mp4** · 13s · start `w08_still_sam_study.png` · audio `w08_sam_07.mp3`
 
 > Each sale bought a year or two. But every piece it sold was a piece that used to make money. You can't shrink your way back to greatness.
 
@@ -147,7 +155,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Spreads his hands. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_07.mp4** · 7s · start `w08_still_sam_boardroom.png` · audio `w08_sam_07.mp3`
+**w08_sam_08.mp4** · 7s · start `w08_still_sam_boardroom.png` · audio `w08_sam_08.mp3`
 
 > So what killed Pan Am? Oil prices. Deregulation. A terrorist bomb. All real.
 
@@ -155,7 +163,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_08.mp4** · 9s · start `w08_still_sam_boardroom.png` · audio `w08_sam_08.mp3`
+**w08_sam_09.mp4** · 9s · start `w08_still_sam_boardroom.png` · audio `w08_sam_09.mp3`
 
 > But my verdict is this. Pan Am was built for a world where the government drew the map.
 
@@ -163,7 +171,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Shakes his head. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_09.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_09.mp3`
+**w08_sam_10.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_10.mp3`
 
 > When the map was torn up, it had nothing underneath. No home market. No loyal flyers at home. Just the oceans.
 
@@ -171,7 +179,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Spreads his hands on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_10.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_10.mp3`
+**w08_sam_11.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_11.mp3`
 
 > The lesson: if your business only works because of the rules, start building as if the rules will change. Because they will.
 
@@ -179,7 +187,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_11.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_11.mp3`
+**w08_sam_12.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_12.mp3`
 
 > Did anyone in your family ever fly Pan Am? I'd love to hear what it was like. Tell me in the comments.
 
@@ -187,7 +195,7 @@ A blue airline flight bag and a captain's hat resting on an empty terminal seat,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w08_sam_12.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_12.mp3`
+**w08_sam_13.mp4** · 10s · start `w08_still_sam_boardroom.png` · audio `w08_sam_13.mp3`
 
 > Next week, the company that a magazine called the most innovative in America six years running. Enron. It's right here.
 

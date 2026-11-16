@@ -1,6 +1,6 @@
 # Nokia: From 40% of All Phones to a Footnote: Higgsfield prompts
 
-Publish 2027-03-02 · about 6.4 min · 14 Sam clips · 11 recreation clips · 6 archive items to source.
+Publish 2027-03-02 · about 12.2 min · 14 Sam clips · 11 recreation clips · 10 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 

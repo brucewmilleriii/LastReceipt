@@ -1,6 +1,6 @@
 # Kodak Invented the Digital Camera, Then Buried It: Higgsfield prompts
 
-Publish 2027-01-26 · about 5.9 min · 12 Sam clips · 12 recreation clips · 6 archive items to source.
+Publish 2027-01-26 · about 12.4 min · 14 Sam clips · 12 recreation clips · 11 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -155,7 +155,23 @@ A shoebox of old printed photographs being opened in a dusty attic, a beam of li
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Quietly. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w10_sam_08.mp4** · 7s · start `w10_still_sam_boardroom.png` · audio `w10_sam_08.mp3`
+**w10_sam_08.mp4** · 9s · start `w10_still_sam_study.png` · audio `w10_sam_08.mp3`
+
+> Imagine driving across the country to find out what's on a roll of film you shot thirty years ago.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Holds the yellow film box up to the lamp light. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w10_sam_09.mp4** · 7s · start `w10_still_sam_study.png` · audio `w10_sam_09.mp3`
+
+> That's what Kodak really sold. Not film. Memories you'd get to see later.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Lowers the box. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w10_sam_10.mp4** · 7s · start `w10_still_sam_boardroom.png` · audio `w10_sam_10.mp3`
 
 > So what killed Kodak? People say it missed digital. It didn't. It invented digital.
 
@@ -163,7 +179,7 @@ A shoebox of old printed photographs being opened in a dusty attic, a beam of li
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a small yellow film box in hand. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w10_sam_09.mp4** · 10s · start `w10_still_sam_boardroom.png` · audio `w10_sam_09.mp3`
+**w10_sam_11.mp4** · 10s · start `w10_still_sam_boardroom.png` · audio `w10_sam_11.mp3`
 
 > Kodak saw the future clearly, and spent thirty years trying to slow it down, because the present was so profitable.
 
@@ -171,7 +187,7 @@ A shoebox of old printed photographs being opened in a dusty attic, a beam of li
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets the box on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w10_sam_10.mp4** · 11s · start `w10_still_sam_boardroom.png` · audio `w10_sam_10.mp3`
+**w10_sam_12.mp4** · 11s · start `w10_still_sam_boardroom.png` · audio `w10_sam_12.mp3`
 
 > So the next time someone at your job says "that'll hurt our main business," remember Kodak. If you don't hurt it, somebody else will.
 
@@ -179,7 +195,7 @@ A shoebox of old printed photographs being opened in a dusty attic, a beam of li
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w10_sam_11.mp4** · 10s · start `w10_still_sam_boardroom.png` · audio `w10_sam_11.mp3`
+**w10_sam_13.mp4** · 10s · start `w10_still_sam_boardroom.png` · audio `w10_sam_13.mp3`
 
 > Do you still have a shoebox of printed photos somewhere? What's the best one in there? Tell me in the comments.
 
@@ -187,7 +203,7 @@ A shoebox of old printed photographs being opened in a dusty attic, a beam of li
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w10_sam_12.mp4** · 9s · start `w10_still_sam_boardroom.png` · audio `w10_sam_12.mp3`
+**w10_sam_14.mp4** · 9s · start `w10_still_sam_boardroom.png` · audio `w10_sam_14.mp3`
 
 > Next week, something different. A company that nearly died, and came back bigger than ever. Lego. It's right here.
 

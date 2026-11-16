@@ -1,6 +1,6 @@
 # BlackBerry Owned the Smartphone. What Happened?: Higgsfield prompts
 
-Publish 2027-01-05 · about 6.2 min · 12 Sam clips · 12 recreation clips · 6 archive items to source.
+Publish 2027-01-05 · about 12.6 min · 14 Sam clips · 12 recreation clips · 10 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -123,7 +123,15 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Taps the desk with two thumbs. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_04.mp4** · 7s · start `w07_still_sam_location.png` · audio `w07_sam_04.mp3`
+**w07_sam_04.mp4** · 13s · start `w07_still_sam_study.png` · audio `w07_sam_04.mp3`
+
+> Hold that picture for a moment. Eighty billion dollars, half the smartphones in America, and a messaging app teenagers begged for. Now let's see how fast it goes.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans back, unhurried. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w07_sam_05.mp4** · 7s · start `w07_still_sam_location.png` · audio `w07_sam_05.mp3`
 
 > Now watch this. They weren't stupid. They were right about what their customers wanted.
 
@@ -131,7 +139,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks between the empty desks. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_05.mp4** · 5s · start `w07_still_sam_location.png` · audio `w07_sam_05.mp3`
+**w07_sam_06.mp4** · 5s · start `w07_still_sam_location.png` · audio `w07_sam_06.mp3`
 
 > They were wrong about who their customers would be.
 
@@ -139,7 +147,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Stops and turns. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_06.mp4** · 13s · start `w07_still_sam_location.png` · audio `w07_sam_06.mp3`
+**w07_sam_07.mp4** · 13s · start `w07_still_sam_location.png` · audio `w07_sam_07.mp3`
 
 > BlackBerry had that exact thing, with tens of millions of users, years earlier. BBM. All it had to do was let iPhone and Android people use it too.
 
@@ -147,7 +155,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Picks up a keyboard phone from an empty desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_07.mp4** · 9s · start `w07_still_sam_study.png` · audio `w07_sam_07.mp3`
+**w07_sam_08.mp4** · 9s · start `w07_still_sam_study.png` · audio `w07_sam_08.mp3`
 
 > They didn't lose the app race. They had already won it. And they kept it locked in a box.
 
@@ -155,7 +163,15 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Quietly. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_08.mp4** · 5s · start `w07_still_sam_boardroom.png` · audio `w07_sam_08.mp3`
+**w07_sam_09.mp4** · 7s · start `w07_still_sam_study.png` · audio `w07_sam_09.mp3`
+
+> That's the cruel math of phones. Nobody wants the one their friends can't message.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Turns the old keyboard phone face down on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w07_sam_10.mp4** · 5s · start `w07_still_sam_boardroom.png` · audio `w07_sam_10.mp3`
 
 > So what killed BlackBerry? Everybody says the iPhone.
 
@@ -163,7 +179,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a keyboard phone in hand. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_09.mp4** · 11s · start `w07_still_sam_boardroom.png` · audio `w07_sam_09.mp3`
+**w07_sam_11.mp4** · 11s · start `w07_still_sam_boardroom.png` · audio `w07_sam_11.mp3`
 
 > I think BlackBerry was killed by being right for too long. It won by serving one customer perfectly, and it couldn't imagine any other.
 
@@ -171,7 +187,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets the phone on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_10.mp4** · 11s · start `w07_still_sam_boardroom.png` · audio `w07_sam_10.mp3`
+**w07_sam_12.mp4** · 11s · start `w07_still_sam_boardroom.png` · audio `w07_sam_12.mp3`
 
 > Here's the lesson for your job. Your best customer today is not proof of where the market is going. Sometimes it's the opposite.
 
@@ -179,7 +195,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_11.mp4** · 9s · start `w07_still_sam_boardroom.png` · audio `w07_sam_11.mp3`
+**w07_sam_13.mp4** · 9s · start `w07_still_sam_boardroom.png` · audio `w07_sam_13.mp3`
 
 > Did you have a BlackBerry? What was your BBM PIN? People still remember those. Tell me in the comments.
 
@@ -187,7 +203,7 @@ An old keyboard phone lying face up on a dark wooden table, its small screen glo
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w07_sam_12.mp4** · 9s · start `w07_still_sam_boardroom.png` · audio `w07_sam_12.mp3`
+**w07_sam_14.mp4** · 9s · start `w07_still_sam_boardroom.png` · audio `w07_sam_14.mp3`
 
 > Next week, the airline that was America, and why it ran out of sky. Pan Am. It's right here.
 

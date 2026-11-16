@@ -1,6 +1,6 @@
 # RadioShack Had the Future and Sold Batteries Instead: Higgsfield prompts
 
-Publish 2027-02-16 · about 6.1 min · 12 Sam clips · 12 recreation clips · 7 archive items to source.
+Publish 2027-02-16 · about 11.7 min · 13 Sam clips · 12 recreation clips · 12 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -155,7 +155,15 @@ A soldering iron resting in its stand on a cluttered workbench in a dark room, a
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Shakes his head slowly. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w13_sam_08.mp4** · 6s · start `w13_still_sam_boardroom.png` · audio `w13_sam_08.mp3`
+**w13_sam_08.mp4** · 10s · start `w13_still_sam_study.png` · audio `w13_sam_08.mp3`
+
+> Here's the thing about a name. It's only worth what it promises. When the promise is gone, you're just selling the letters.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Rolls the 9-volt battery between his fingers. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w13_sam_09.mp4** · 6s · start `w13_still_sam_boardroom.png` · audio `w13_sam_09.mp3`
 
 > So what killed RadioShack? Amazon, partly. Big-box stores, partly. Phones, definitely.
 
@@ -163,7 +171,7 @@ A soldering iron resting in its stand on a cluttered workbench in a dark room, a
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a 9-volt battery in hand. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w13_sam_09.mp4** · 13s · start `w13_still_sam_boardroom.png` · audio `w13_sam_09.mp3`
+**w13_sam_10.mp4** · 13s · start `w13_still_sam_boardroom.png` · audio `w13_sam_10.mp3`
 
 > But here's my verdict. RadioShack's real customers were the curious ones. The builders. It had them first, and it kept trading them for whatever was selling that year.
 
@@ -171,7 +179,7 @@ A soldering iron resting in its stand on a cluttered workbench in a dark room, a
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets the battery on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w13_sam_10.mp4** · 9s · start `w13_still_sam_boardroom.png` · audio `w13_sam_10.mp3`
+**w13_sam_11.mp4** · 9s · start `w13_still_sam_boardroom.png` · audio `w13_sam_11.mp3`
 
 > The lesson: know who your weirdest, most loyal customers are. They're usually a few years ahead of everyone else.
 
@@ -179,7 +187,7 @@ A soldering iron resting in its stand on a cluttered workbench in a dark room, a
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w13_sam_11.mp4** · 10s · start `w13_still_sam_boardroom.png` · audio `w13_sam_11.mp3`
+**w13_sam_12.mp4** · 10s · start `w13_still_sam_boardroom.png` · audio `w13_sam_12.mp3`
 
 > What did you build with something from RadioShack? Tell me in the comments. I want to hear about the kits.
 
@@ -187,7 +195,7 @@ A soldering iron resting in its stand on a cluttered workbench in a dark room, a
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w13_sam_12.mp4** · 8s · start `w13_still_sam_boardroom.png` · audio `w13_sam_12.mp3`
+**w13_sam_13.mp4** · 8s · start `w13_still_sam_boardroom.png` · audio `w13_sam_13.mp3`
 
 > Next week, the bookstore that handed its future to Amazon. On purpose. Borders. It's right here.
 

@@ -1,6 +1,6 @@
 # Enron: The Smartest Guys in the Room, Explained: Higgsfield prompts
 
-Publish 2027-01-19 · about 7.2 min · 13 Sam clips · 12 recreation clips · 6 archive items to source.
+Publish 2027-01-19 · about 12.0 min · 14 Sam clips · 12 recreation clips · 8 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -155,7 +155,15 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Looks up at the dark atrium. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_08.mp4** · 8s · start `w09_still_sam_boardroom.png` · audio `w09_sam_08.mp3`
+**w09_sam_08.mp4** · 5s · start `w09_still_sam_study.png` · audio `w09_sam_08.mp3`
+
+> Which is the most useful thing Enron ever made.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Almost smiles. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w09_sam_09.mp4** · 8s · start `w09_still_sam_boardroom.png` · audio `w09_sam_09.mp3`
 
 > So what killed Enron? Greed, sure. Fraud, absolutely. But the thing underneath both was simpler.
 
@@ -163,7 +171,7 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_09.mp4** · 7s · start `w09_still_sam_boardroom.png` · audio `w09_sam_09.mp3`
+**w09_sam_10.mp4** · 7s · start `w09_still_sam_boardroom.png` · audio `w09_sam_10.mp3`
 
 > Enron built a company where the reported number mattered more than the real one.
 
@@ -171,7 +179,7 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_10.mp4** · 11s · start `w09_still_sam_boardroom.png` · audio `w09_sam_10.mp3`
+**w09_sam_11.mp4** · 11s · start `w09_still_sam_boardroom.png` · audio `w09_sam_11.mp3`
 
 > Count it now, hide the losses, push out anyone who misses the target. Do that long enough and the numbers stop meaning anything.
 
@@ -179,7 +187,7 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Counts on three fingers. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_11.mp4** · 11s · start `w09_still_sam_boardroom.png` · audio `w09_sam_11.mp3`
+**w09_sam_12.mp4** · 11s · start `w09_still_sam_boardroom.png` · audio `w09_sam_12.mp3`
 
 > Here's the lesson I'd keep. If a company can't explain how it makes money in two sentences, be careful with your two cents.
 
@@ -187,7 +195,7 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_12.mp4** · 10s · start `w09_still_sam_boardroom.png` · audio `w09_sam_12.mp3`
+**w09_sam_13.mp4** · 10s · start `w09_still_sam_boardroom.png` · audio `w09_sam_13.mp3`
 
 > What's a company today you think couldn't explain how it makes money? Tell me in the comments. Careful, I might investigate.
 
@@ -195,7 +203,7 @@ An older man at a kitchen table reading a retirement account statement under a p
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w09_sam_13.mp4** · 8s · start `w09_still_sam_boardroom.png` · audio `w09_sam_13.mp3`
+**w09_sam_14.mp4** · 8s · start `w09_still_sam_boardroom.png` · audio `w09_sam_14.mp3`
 
 > Next week, the company that invented the digital camera, and then buried it. Kodak. It's right here.
 

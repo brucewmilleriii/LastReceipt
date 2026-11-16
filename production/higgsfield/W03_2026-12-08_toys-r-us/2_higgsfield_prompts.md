@@ -1,6 +1,6 @@
 # The Debt That Killed Toys R Us: Higgsfield prompts
 
-Publish 2026-12-08 · about 7.6 min · 12 Sam clips · 11 recreation clips · 7 archive items to source.
+Publish 2026-12-08 · about 14.5 min · 14 Sam clips · 11 recreation clips · 11 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -143,13 +143,29 @@ An adult in their thirties standing in a parking lot at dusk in front of a dark,
 
 **w03_sam_07.mp4** · 13s · start `w03_still_sam_location.png` · audio `w03_sam_07.mp3`
 
+> So the company was paying the bank, paying its owners, and paying Amazon. And somewhere at the end of that line, it was supposed to pay for the stores.
+
+```
+@Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Picks a lone price tag off the floor and reads it. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w03_sam_08.mp4** · 13s · start `w03_still_sam_location.png` · audio `w03_sam_08.mp3`
+
 > Now watch this. Toys R Us was still selling billions of dollars of toys a year. Customers hadn't left. The business wasn't the problem. The payment was the problem.
 
 ```
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Runs a hand along the bare shelf edge. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w03_sam_08.mp4** · 7s · start `w03_still_sam_boardroom.png` · audio `w03_sam_08.mp3`
+**w03_sam_09.mp4** · 8s · start `w03_still_sam_study.png` · audio `w03_sam_09.mp3`
+
+> Same shelves. Same giraffe. Different debt. That's the whole experiment, run for you in real life.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Sets the toy giraffe back on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w03_sam_10.mp4** · 7s · start `w03_still_sam_boardroom.png` · audio `w03_sam_10.mp3`
 
 > So what killed Toys R Us? Amazon helped. Walmart helped. Bad management helped.
 
@@ -157,7 +173,7 @@ An adult in their thirties standing in a parking lot at dusk in front of a dark,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, hands resting on a chair. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w03_sam_09.mp4** · 13s · start `w03_still_sam_boardroom.png` · audio `w03_sam_09.mp3`
+**w03_sam_11.mp4** · 13s · start `w03_still_sam_boardroom.png` · audio `w03_sam_11.mp3`
 
 > But a healthy company survives all three. Toys R Us spent twelve years paying for its own purchase. It lost to a spreadsheet, and the kids were never on it.
 
@@ -165,7 +181,7 @@ An adult in their thirties standing in a parking lot at dusk in front of a dark,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Shakes his head once. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w03_sam_10.mp4** · 8s · start `w03_still_sam_boardroom.png` · audio `w03_sam_10.mp3`
+**w03_sam_12.mp4** · 8s · start `w03_still_sam_boardroom.png` · audio `w03_sam_12.mp3`
 
 > Remember this one. When a company you love gets bought, ask one question. Who's carrying the loan?
 
@@ -173,7 +189,7 @@ An adult in their thirties standing in a parking lot at dusk in front of a dark,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w03_sam_11.mp4** · 11s · start `w03_still_sam_boardroom.png` · audio `w03_sam_11.mp3`
+**w03_sam_13.mp4** · 11s · start `w03_still_sam_boardroom.png` · audio `w03_sam_13.mp3`
 
 > What's the one toy you begged for in that store? Tell me in the comments. I'll go first: a remote-control truck I never got.
 
@@ -181,7 +197,7 @@ An adult in their thirties standing in a parking lot at dusk in front of a dark,
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w03_sam_12.mp4** · 12s · start `w03_still_sam_boardroom.png` · audio `w03_sam_12.mp3`
+**w03_sam_14.mp4** · 12s · start `w03_still_sam_boardroom.png` · audio `w03_sam_14.mp3`
 
 > Next, the store with the flashing blue light, and how it lost to a rival that was buying trucks and computers. Kmart. It's right here.
 

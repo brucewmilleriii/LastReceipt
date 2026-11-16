@@ -1,6 +1,6 @@
 # Circuit City Fired Its Best Employees. Then It Died.: Higgsfield prompts
 
-Publish 2026-12-22 · about 6.9 min · 12 Sam clips · 12 recreation clips · 6 archive items to source.
+Publish 2026-12-22 · about 12.4 min · 13 Sam clips · 12 recreation clips · 9 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -123,7 +123,15 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Raises his eyebrows. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_04.mp4** · 15s · start `w05_still_sam_location.png` · audio `w05_sam_04.mp3`
+**w05_sam_04.mp4** · 11s · start `w05_still_sam_study.png` · audio `w05_sam_04.mp3`
+
+> So the same company that knew how to fix a bad shopping experience for cars forgot how to protect a good one for TVs.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Spreads his fingers on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w05_sam_05.mp4** · 15s · start `w05_still_sam_location.png` · audio `w05_sam_05.mp3`
 
 > Now watch this. Appliances were boring. But they were the reason a lot of families walked in the door in the first place. You came for the fridge and left with the TV.
 
@@ -131,7 +139,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks along the bare wall of empty TV brackets. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_05.mp4** · 10s · start `w05_still_sam_location.png` · audio `w05_sam_05.mp3`
+**w05_sam_06.mp4** · 10s · start `w05_still_sam_location.png` · audio `w05_sam_06.mp3`
 
 > Here's the thing. The spreadsheet had a column for what those people cost. It didn't have one for what they knew.
 
@@ -139,7 +147,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Stops and faces camera. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_06.mp4** · 13s · start `w05_still_sam_study.png` · audio `w05_sam_06.mp3`
+**w05_sam_07.mp4** · 13s · start `w05_still_sam_study.png` · audio `w05_sam_07.mp3`
 
 > This is the part people miss. Companies rarely die from one bad quarter. They die when the people they depend on stop believing in them. Customers, and staff.
 
@@ -147,7 +155,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans in. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_07.mp4** · 14s · start `w05_still_sam_study.png` · audio `w05_sam_07.mp3`
+**w05_sam_08.mp4** · 14s · start `w05_still_sam_study.png` · audio `w05_sam_08.mp3`
 
 > One dying chain trying to save itself by buying another dying chain. That deal fell apart in a few months, which may be the luckiest thing that ever happened to Blockbuster's shareholders.
 
@@ -155,7 +163,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Dry smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_08.mp4** · 8s · start `w05_still_sam_boardroom.png` · audio `w05_sam_08.mp3`
+**w05_sam_09.mp4** · 8s · start `w05_still_sam_boardroom.png` · audio `w05_sam_09.mp3`
 
 > So what killed Circuit City? Not Best Buy. Not the recession. Those just finished the job.
 
@@ -163,7 +171,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_09.mp4** · 8s · start `w05_still_sam_boardroom.png` · audio `w05_sam_09.mp3`
+**w05_sam_10.mp4** · 8s · start `w05_still_sam_boardroom.png` · audio `w05_sam_10.mp3`
 
 > It cut the one thing customers actually came for. People who knew what they were talking about.
 
@@ -171,7 +179,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the table once. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_10.mp4** · 14s · start `w05_still_sam_boardroom.png` · audio `w05_sam_10.mp3`
+**w05_sam_11.mp4** · 14s · start `w05_still_sam_boardroom.png` · audio `w05_sam_11.mp3`
 
 > If you ever hear a company say its most experienced people cost too much, remember Circuit City. It went looking for a hundred million dollars in savings, and lost everything else.
 
@@ -179,7 +187,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_11.mp4** · 11s · start `w05_still_sam_boardroom.png` · audio `w05_sam_11.mp3`
+**w05_sam_12.mp4** · 11s · start `w05_still_sam_boardroom.png` · audio `w05_sam_12.mp3`
 
 > What's a store you loved that went downhill before it closed? Tell me in the comments. The best answer might become an episode.
 
@@ -187,7 +195,7 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small nod. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w05_sam_12.mp4** · 10s · start `w05_still_sam_boardroom.png` · audio `w05_sam_12.mp3`
+**w05_sam_13.mp4** · 10s · start `w05_still_sam_boardroom.png` · audio `w05_sam_13.mp3`
 
 > Next week, the stores that are in trouble right now. Twelve big retailers closing stores across America in 2027. It's right here.
 

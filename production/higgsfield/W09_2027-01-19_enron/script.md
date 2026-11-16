@@ -52,13 +52,19 @@ SAM (study) {small nod}: I'm Sam. This is Last Receipt. This is the Enron scanda
 
 Enron started out boring. It was formed in 1985 from the merger of two natural gas pipeline companies. Its boss was Ken Lay, an economist with a PhD and friends in Washington. Pipelines are a steady, predictable business. You move gas, you get paid.
 
+Lay grew up poor in rural Missouri, the son of a preacher who also sold farm equipment. He worked his way through university, earned a doctorate in economics, served in the Navy, and spent time in Washington around energy policy. By the time he ran Enron, he knew senators and presidents by first name. In Houston, he was the city's favorite business leader, the man who gave to every museum and charity. That reputation is part of the story too. People trusted Enron because they trusted Ken Lay.
+
 [ARCHIVE: Ken Lay and Jeff Skilling photos, 1990s | Kenneth Lay; Jeffrey Skilling]
 
 Then Lay hired a brilliant consultant named Jeff Skilling. Skilling had an idea. Instead of just moving gas, Enron should trade it. Buy and sell gas like a stock, and sign long contracts to supply it at a fixed price. Enron would become a bank for energy.
 
+To understand why that was clever, think about a factory that burns gas. Gas prices jump around. One winter it's cheap, the next it doubles. The factory owner hates that, because he can't plan. Skilling's pitch was simple: sign with us, and we'll promise you a fixed price for ten years. We'll take the risk. For a lot of customers, that was worth paying for. It was a real idea, and a good one. Keep that in mind, because Enron didn't start as a fraud. It started as a smart company that later couldn't stand to look ordinary.
+
 [REC 03 | 1990s | A frantic 1990s trading floor, rows of desks with CRT monitors, young traders in shirtsleeves shouting into phones, one standing on his chair | A trader slams down a phone and punches the air; camera handheld, moving down the row | 6]
 
 And it worked, at first. Enron's trading floor became one of the most aggressive in the world. Skilling hired the smartest graduates he could find and pushed them hard. Every year, the weakest employees were ranked and pushed out.
+
+Employees called it rank and yank. A committee graded everyone, and the bottom slice was shown the door. In theory it kept the company sharp. In practice it taught people one lesson above all others: never be the person who brings bad news. Bring big deals. Bring big numbers. And if a deal looks shaky, don't say it out loud.
 
 SAM (study) {raises one eyebrow}: Remember that ranking system. It comes back.
 
@@ -74,6 +80,8 @@ Now, here's the trick, and it's the heart of the whole thing.
 
 Enron got permission to use something called mark-to-market accounting. Here's what it means. Say Enron signed a twenty-year deal to supply energy to a factory. Normally, you'd count the profit as it came in, year by year. Under Enron's method, it could estimate the profit from all twenty years, and count it right now, the day the deal was signed.
 
+This method isn't illegal. Banks use it for things that trade every day, where there's a real market price to check against. The problem is a twenty-year energy contract doesn't have a market price. Nobody trades it. So Enron had to guess what it was worth, using its own assumptions about prices decades into the future. And the people making those guesses were the same people getting bonuses based on the answer.
+
 SAM (location) {walks across the dark lobby floor}: Think about what that does. You sign a deal on Monday, and you report twenty years of profit on Tuesday. And the estimate of how much profit? Enron made it.
 
 SAM (location) {stops under a pool of light}: And next year, to show growth, you need an even bigger deal. And the year after that, a bigger one again.
@@ -83,6 +91,10 @@ That's a treadmill that only goes faster. And plenty of those deals never made t
 [ARCHIVE: Enron-Blockbuster video-on-demand announcement coverage, 2000 | Enron Blockbuster 2000]
 
 Remember Blockbuster's video-on-demand deal from our first episode? That was Enron. It booked over a hundred million dollars of expected profit from it, for a service that barely existed.
+
+[ARCHIVE: Enron Field, Houston, 2000; Enron headquarters tower | Enron Field 2000]
+
+And Enron was spreading in every direction. A giant power plant in India that ran into years of trouble. A global water company that never made sense. A plan to trade internet bandwidth like it traded gas. Houston's new baseball stadium was named Enron Field. The company was everywhere, and everything it touched was described as a revolution.
 
 ## Chapter 3: The side companies (7:00 to 9:30)
 
@@ -106,6 +118,10 @@ And Fastow was also running some of those side companies himself, earning tens o
 
 From the outside, Enron looked unstoppable. Revenue reported at around a hundred billion dollars in 2000. A stock price near ninety. A website where it traded everything, from gas to weather.
 
+That revenue number deserves a second look, by the way. When Enron's trading business sold a contract, it often counted the whole value of the trade as revenue, not just the slice it kept. It's a bit like an estate agent saying they made five hundred thousand dollars because they sold a house. That's how a company with modest real profits could look, on paper, like one of the biggest businesses in America.
+
+[GFX: Two bars: "What Enron counted as revenue" (huge) vs "What it actually kept" (a sliver)]
+
 [REC 07 | 2000s | A dark California suburban street during a rolling blackout in 2001, every house dark except car headlights passing, a family on a porch with a flashlight | The flashlight beam sweeps across the yard; a car passes slowly; camera static, wide | 6]
 
 And during California's energy crisis in 2000 and 2001, when the state suffered blackouts, Enron's traders were caught on tape joking about the prices they were squeezing out of it.
@@ -122,11 +138,15 @@ In March 2001, a young reporter at Fortune magazine named Bethany McLean wrote a
 
 She'd read the financial reports, and she couldn't figure it out. Neither could the analysts she talked to. When she asked Enron, she got no clear answer.
 
+A month later, on a call with investors, an analyst pressed Skilling about why Enron hadn't released a full balance sheet with its earnings. Skilling called him a crude name, on the call, with Wall Street listening. Some people laughed it off. A few started selling.
+
 SAM (location) {looks up at the dark atrium}: Now watch this. That's the whole scandal in one moment. The most celebrated company in America couldn't explain to a reporter how it made money.
 
 [ARCHIVE: Coverage of Skilling's resignation and the Sherron Watkins memo, August 2001 | Skilling resigns August 2001; Sherron Watkins memo]
 
 That August, Skilling suddenly quit, after only six months as CEO, for what he called personal reasons. An Enron vice president, Sherron Watkins, wrote a memo to Ken Lay warning that the company might, in her words, implode in a wave of accounting scandals.
+
+Ken Lay came back to run the company. At a meeting with employees that fall, he told them he believed the stock was a bargain. Many of them believed him, because why wouldn't they? He'd built the place. Later it emerged that Lay himself had been selling large amounts of Enron shares during that period.
 
 ## Chapter 5: Six weeks (12:00 to 14:30)
 
@@ -142,7 +162,11 @@ At Enron's accounting firm, Arthur Andersen, staff shredded documents. Andersen,
 
 [REC 10 | 2000s | A stock chart line on a 2001 CRT monitor falling off a cliff (numbers blurred), the reflection of a worried face in the glass | The line drops and the screen flickers; camera static, close | 4]
 
-A rival company agreed to buy Enron, then backed out. On December 2nd, 2001, Enron filed for bankruptcy, at the time the biggest in American history.
+A rival company agreed to buy Enron, then backed out.
+
+That rival was a smaller Houston energy company called Dynegy. For a few weeks, it looked like a rescue. Then Dynegy's people got a closer look at Enron's books, and at what was hidden in the side companies. They walked away. Enron's credit rating was cut to junk, the trading partners vanished, and a trading company with no trading partners has nothing left.
+
+On December 2nd, 2001, Enron filed for bankruptcy, at the time the biggest in American history.
 
 [REC 11 | 2000s | Office workers leaving a glass tower carrying cardboard boxes of belongings, TV news vans and cameras on the street outside, overcast day | A woman shifts her box to one arm and pushes through the revolving door; camera handheld from the street | 6]
 
@@ -155,6 +179,16 @@ Thousands of employees lost their jobs. Many had their retirement savings in Enr
 [ARCHIVE: Courtroom sketches and courthouse photos, Lay and Skilling trial, 2006 | Lay Skilling trial 2006]
 
 Ken Lay and Jeff Skilling were convicted of fraud in 2006. Lay died before he could be sentenced. Skilling went to prison. Fastow went to prison too. Congress passed new laws making chief executives personally sign off on their company's accounts.
+
+[ARCHIVE: Enron email dataset as public record, released 2003 | Enron email dataset]
+
+And here's a strange afterlife. During the investigation, regulators made around half a million of Enron's internal emails public. Researchers picked them up, because there was almost nothing else like it: real emails from a real company. For years, the Enron emails were used to study how people write at work, and to help teach computers to filter spam. Somewhere in the software that cleans up your inbox, there's a little bit of Enron.
+
+SAM (study) {almost smiles}: Which is the most useful thing Enron ever made.
+
+[GFX: Timeline recap: 1985 merger, 1990 Skilling arrives, 1992 mark-to-market, 1999 EnronOnline, 2000 share price peak, March 2001 Fortune article, August 2001 Skilling quits, October 2001 loss, December 2001 bankruptcy]
+
+Let's lay it out once more. A pipeline company with a genuinely good idea. A culture that rewarded the biggest number and punished bad news. An accounting method that let it count the future as today. A web of side companies to hide what went wrong. And one reporter who simply asked how it made money.
 
 SAM (boardroom) {stands at the head of the table}: So what killed Enron? Greed, sure. Fraud, absolutely. But the thing underneath both was simpler.
 
@@ -199,6 +233,15 @@ Sources: Bethany McLean and Peter Elkind, *The Smartest Guys in the Room* (2003)
 | 17 | Retirement plan lockdown during the fall | Details |
 | 18 | Lay and Skilling convicted 2006; Lay died before sentencing | Dates |
 | 19 | Sarbanes-Oxley (2002) CEO sign-off | Law |
+| 20 | Rank and yank (Performance Review Committee) | Source |
+| 21 | Mark-to-market approved for Enron by the SEC in 1992 | Date |
+| 22 | Dabhol power plant (India), Azurix water company, broadband trading; Enron Field naming | Dates |
+| 23 | Enron counted gross value of trades as revenue | Source (accounting analyses) |
+| 24 | Skilling insulted an analyst on an April 2001 earnings call | Date |
+| 25 | Lay told employees the stock was a bargain in fall 2001 while selling shares | Source, dates |
+| 26 | About 500,000 Enron emails released by FERC; used in research and spam filtering | Source |
+| 27 | Ken Lay background: Missouri, preacher father, economics PhD, Navy | Source |
+| 28 | Dynegy agreed to buy Enron in Nov 2001, withdrew Nov 28 | Dates |
 
 ## Shorts cut from this video
 

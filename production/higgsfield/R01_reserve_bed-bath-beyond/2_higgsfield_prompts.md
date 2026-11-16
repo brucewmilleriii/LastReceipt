@@ -1,6 +1,6 @@
 # Bed Bath & Beyond: The Coupon That Ate the Company: Higgsfield prompts
 
-Publish reserve · about 4.4 min · 9 Sam clips · 10 recreation clips · 3 archive items to source.
+Publish reserve · about 10.2 min · 11 Sam clips · 10 recreation clips · 5 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -103,7 +103,15 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Sets the coupon down. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_03.mp4** · 8s · start `r01_still_sam_location.png` · audio `r01_sam_03.mp3`
+**r01_sam_03.mp4** · 12s · start `r01_still_sam_study.png` · audio `r01_sam_03.mp3`
+
+> Remember the founders' instinct. Trust the store. Let the people in the aisle decide. Hold onto that, because the people who came later did the opposite.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Lines up the coupon square with the edge of the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**r01_sam_04.mp4** · 8s · start `r01_still_sam_location.png` · audio `r01_sam_04.mp3`
 
 > Here's the thing about a coupon everyone has. It's not a discount anymore. It's just the price.
 
@@ -111,7 +119,7 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks along a bare shelf and stops. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_04.mp4** · 13s · start `r01_still_sam_location.png` · audio `r01_sam_04.mp3`
+**r01_sam_05.mp4** · 13s · start `r01_still_sam_location.png` · audio `r01_sam_05.mp3`
 
 > Now watch this. That's money that could have rebuilt every store and the website, twice. Instead it went to make the share price look better for a while.
 
@@ -119,7 +127,15 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Taps the bare shelf. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_05.mp4** · 9s · start `r01_still_sam_boardroom.png` · audio `r01_sam_05.mp3`
+**r01_sam_06.mp4** · 9s · start `r01_still_sam_location.png` · audio `r01_sam_06.mp3`
+
+> You can tell a lot about a store by its bottom shelf. When it's empty, the money's already gone.
+
+```
+@Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Lifts an empty box from the bottom shelf, finds it light. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**r01_sam_07.mp4** · 9s · start `r01_still_sam_boardroom.png` · audio `r01_sam_07.mp3`
 
 > So what killed Bed Bath and Beyond? Amazon helped. The meme stock circus didn't help. The new brands hurt.
 
@@ -127,7 +143,7 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a blue coupon on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_06.mp4** · 12s · start `r01_still_sam_boardroom.png` · audio `r01_sam_06.mp3`
+**r01_sam_08.mp4** · 12s · start `r01_still_sam_boardroom.png` · audio `r01_sam_08.mp3`
 
 > But underneath all of it was this. It taught its customers that its own prices weren't real. Once you've done that, you can't take it back.
 
@@ -135,7 +151,7 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the coupon. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_07.mp4** · 8s · start `r01_still_sam_boardroom.png` · audio `r01_sam_07.mp3`
+**r01_sam_09.mp4** · 8s · start `r01_still_sam_boardroom.png` · audio `r01_sam_09.mp3`
 
 > The lesson: be careful what you train your customers to expect. They learn faster than you do.
 
@@ -143,7 +159,7 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_08.mp4** · 10s · start `r01_still_sam_boardroom.png` · audio `r01_sam_08.mp3`
+**r01_sam_10.mp4** · 10s · start `r01_still_sam_boardroom.png` · audio `r01_sam_10.mp3`
 
 > How many of those coupons are still in your drawer right now? Go check, and tell me in the comments.
 
@@ -151,7 +167,7 @@ A single blue paper coupon blowing across an empty store parking lot on a windy 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**r01_sam_09.mp4** · 10s · start `r01_still_sam_boardroom.png` · audio `r01_sam_09.mp3`
+**r01_sam_11.mp4** · 10s · start `r01_still_sam_boardroom.png` · audio `r01_sam_11.mp3`
 
 > And if you want a store that collapsed under its own loan, watch what happened to Toys R Us. It's right here.
 

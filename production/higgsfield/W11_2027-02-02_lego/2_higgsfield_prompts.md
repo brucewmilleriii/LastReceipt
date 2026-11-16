@@ -1,6 +1,6 @@
 # Lego Was Nearly Bankrupt. Here's How It Came Back.: Higgsfield prompts
 
-Publish 2027-02-02 · about 5.8 min · 12 Sam clips · 12 recreation clips · 6 archive items to source.
+Publish 2027-02-02 · about 12.1 min · 13 Sam clips · 12 recreation clips · 9 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -155,7 +155,15 @@ A single red plastic brick sitting on a white table in warm 3000 K light, nothin
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Holds up a single brick. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w11_sam_08.mp4** · 10s · start `w11_still_sam_boardroom.png` · audio `w11_sam_08.mp3`
+**w11_sam_08.mp4** · 12s · start `w11_still_sam_study.png` · audio `w11_sam_08.mp3`
+
+> That click is the same click it was in 1958. Lego didn't need a new sound. It needed to stop being embarrassed by the old one.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Fits one brick onto another with a click. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w11_sam_09.mp4** · 10s · start `w11_still_sam_boardroom.png` · audio `w11_sam_09.mp3`
 
 > So what saved Lego? Not a new product. Not a genius invention. It was a company remembering what it already was.
 
@@ -163,7 +171,7 @@ A single red plastic brick sitting on a white table in warm 3000 K light, nothin
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a single brick on the table in front of him. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w11_sam_09.mp4** · 9s · start `w11_still_sam_boardroom.png` · audio `w11_sam_09.mp3`
+**w11_sam_10.mp4** · 9s · start `w11_still_sam_boardroom.png` · audio `w11_sam_10.mp3`
 
 > Lego almost died chasing everything it wasn't. It came back by doing the one thing nobody else could do.
 
@@ -171,7 +179,7 @@ A single red plastic brick sitting on a white table in warm 3000 K light, nothin
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the brick. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w11_sam_10.mp4** · 11s · start `w11_still_sam_boardroom.png` · audio `w11_sam_10.mp3`
+**w11_sam_11.mp4** · 11s · start `w11_still_sam_boardroom.png` · audio `w11_sam_11.mp3`
 
 > If you're in a business that's struggling, it's worth asking Lego's question. What are we actually good at? Then do more of that.
 
@@ -179,7 +187,7 @@ A single red plastic brick sitting on a white table in warm 3000 K light, nothin
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w11_sam_11.mp4** · 10s · start `w11_still_sam_boardroom.png` · audio `w11_sam_11.mp3`
+**w11_sam_12.mp4** · 10s · start `w11_still_sam_boardroom.png` · audio `w11_sam_12.mp3`
 
 > What's the best Lego set you ever owned? Tell me in the comments. Bonus points if you still have it.
 
@@ -187,7 +195,7 @@ A single red plastic brick sitting on a white table in warm 3000 K light, nothin
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w11_sam_12.mp4** · 9s · start `w11_still_sam_boardroom.png` · audio `w11_sam_12.mp3`
+**w11_sam_13.mp4** · 9s · start `w11_still_sam_boardroom.png` · audio `w11_sam_13.mp3`
 
 > Next week, back to the closing signs. Every major store closing in 2027 so far. It's right here.
 

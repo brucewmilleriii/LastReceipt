@@ -1,6 +1,6 @@
 # How Kmart Went From 2,000 Stores to Almost None: Higgsfield prompts
 
-Publish 2026-12-15 · about 7.1 min · 12 Sam clips · 12 recreation clips · 8 archive items to source.
+Publish 2026-12-15 · about 13.4 min · 13 Sam clips · 12 recreation clips · 11 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -131,7 +131,15 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Taps the desk once. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_05.mp4** · 12s · start `w04_still_sam_location.png` · audio `w04_sam_05.mp3`
+**w04_sam_05.mp4** · 12s · start `w04_still_sam_study.png` · audio `w04_sam_05.mp3`
+
+> On one hand, new businesses. On the other, old stores with bad lighting and a leaky roof. You can guess which hand got the money.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Turns one hand palm up, then the other, as if weighing. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w04_sam_06.mp4** · 12s · start `w04_still_sam_location.png` · audio `w04_sam_06.mp3`
 
 > Now, why does that matter? Because the most important thing in a store isn't the price. It's whether the thing you came for is on the shelf.
 
@@ -139,7 +147,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks into frame down the empty main aisle. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_06.mp4** · 7s · start `w04_still_sam_location.png` · audio `w04_sam_06.mp3`
+**w04_sam_07.mp4** · 7s · start `w04_still_sam_location.png` · audio `w04_sam_07.mp3`
 
 > Walmart's computers knew what was running out before it ran out. Kmart's often didn't.
 
@@ -147,7 +155,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Stops under the flickering light. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_07.mp4** · 10s · start `w04_still_sam_location.png` · audio `w04_sam_07.mp3`
+**w04_sam_08.mp4** · 10s · start `w04_still_sam_location.png` · audio `w04_sam_08.mp3`
 
 > Now watch this. Challenging Walmart to a price war is like challenging the guy who owns the gym to a push-up contest.
 
@@ -155,7 +163,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Half a smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_08.mp4** · 6s · start `w04_still_sam_boardroom.png` · audio `w04_sam_08.mp3`
+**w04_sam_09.mp4** · 6s · start `w04_still_sam_boardroom.png` · audio `w04_sam_09.mp3`
 
 > So what killed Kmart? Most people say Walmart. And Walmart certainly won.
 
@@ -163,7 +171,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_09.mp4** · 13s · start `w04_still_sam_boardroom.png` · audio `w04_sam_09.mp3`
+**w04_sam_10.mp4** · 13s · start `w04_still_sam_boardroom.png` · audio `w04_sam_10.mp3`
 
 > But Kmart forgot what a store is. A store isn't the building, the brand or the sale. It's whether the thing you came for is on the shelf.
 
@@ -171,7 +179,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Holds up one finger. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_10.mp4** · 13s · start `w04_still_sam_boardroom.png` · audio `w04_sam_10.mp3`
+**w04_sam_11.mp4** · 13s · start `w04_still_sam_boardroom.png` · audio `w04_sam_11.mp3`
 
 > Walmart spent thirty years on trucks and computers. Kmart spent them on announcements. In your job, the boring stuff nobody claps for is usually the stuff that wins.
 
@@ -179,7 +187,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_11.mp4** · 9s · start `w04_still_sam_boardroom.png` · audio `w04_sam_11.mp3`
+**w04_sam_12.mp4** · 9s · start `w04_still_sam_boardroom.png` · audio `w04_sam_12.mp3`
 
 > Did you ever run for a Blue Light Special? What did you get? Tell me in the comments.
 
@@ -187,7 +195,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w04_sam_12.mp4** · 9s · start `w04_still_sam_boardroom.png` · audio `w04_sam_12.mp3`
+**w04_sam_13.mp4** · 9s · start `w04_still_sam_boardroom.png` · audio `w04_sam_13.mp3`
 
 > Next, the electronics store that fired its best salespeople on purpose, to save money. Circuit City. It's right here.
 

@@ -1,6 +1,6 @@
 # Big Lots: The Bargain Store That Ran Out of Bargains: Higgsfield prompts
 
-Publish 2027-03-09 · about 5.3 min · 11 Sam clips · 10 recreation clips · 3 archive items to source.
+Publish 2027-03-09 · about 11.2 min · 13 Sam clips · 10 recreation clips · 6 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -111,7 +111,15 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Taps the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_04.mp4** · 10s · start `w16_still_sam_location.png` · audio `w16_sam_04.mp3`
+**w16_sam_04.mp4** · 12s · start `w16_still_sam_study.png` · audio `w16_sam_04.mp3`
+
+> Imagine running a restaurant where you only cook what the farmers couldn't sell. Great when there's plenty. Not so great when the farmers get better at farming.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Spreads his hands on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w16_sam_05.mp4** · 10s · start `w16_still_sam_location.png` · audio `w16_sam_05.mp3`
 
 > Now, on paper this makes sense. A sofa is a big sale. People buy furniture every year. You can plan it.
 
@@ -119,7 +127,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Rests a hand on a plastic-wrapped sofa. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_05.mp4** · 12s · start `w16_still_sam_location.png` · audio `w16_sam_05.mp3`
+**w16_sam_06.mp4** · 12s · start `w16_still_sam_location.png` · audio `w16_sam_06.mp3`
 
 > But here's the catch. A sofa isn't a treasure hunt. You don't find one by accident. And there's already a long list of stores that sell sofas.
 
@@ -127,7 +135,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Pats the plastic. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_06.mp4** · 12s · start `w16_still_sam_location.png` · audio `w16_sam_06.mp3`
+**w16_sam_07.mp4** · 12s · start `w16_still_sam_location.png` · audio `w16_sam_07.mp3`
 
 > Now watch this. Big Lots was squeezed from both sides. Too expensive and boring for the bargain hunters. Not good enough for the furniture shoppers.
 
@@ -135,7 +143,15 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Looks around the dark floor. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_07.mp4** · 8s · start `w16_still_sam_boardroom.png` · audio `w16_sam_07.mp3`
+**w16_sam_08.mp4** · 10s · start `w16_still_sam_study.png` · audio `w16_sam_08.mp3`
+
+> Same building. Same parking lot. Same kind of customer. The only thing that changed was who still remembered why they came.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Turns the mismatched teacup slowly in the lamp light. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w16_sam_09.mp4** · 8s · start `w16_still_sam_boardroom.png` · audio `w16_sam_09.mp3`
 
 > So what killed Big Lots? Inflation, the pandemic hangover, Ollie's, TJ Maxx. All of that.
 
@@ -143,7 +159,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, the mismatched teacup on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_08.mp4** · 14s · start `w16_still_sam_boardroom.png` · audio `w16_sam_08.mp3`
+**w16_sam_10.mp4** · 14s · start `w16_still_sam_boardroom.png` · audio `w16_sam_10.mp3`
 
 > But I think Big Lots stopped being the one thing nobody else could be. It traded the treasure hunt for a sofa showroom, and there are a lot of sofa showrooms.
 
@@ -151,7 +167,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Taps the teacup. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_09.mp4** · 12s · start `w16_still_sam_boardroom.png` · audio `w16_sam_09.mp3`
+**w16_sam_11.mp4** · 12s · start `w16_still_sam_boardroom.png` · audio `w16_sam_11.mp3`
 
 > The lesson: when you're tempted to become more normal, ask what made you weird in the first place. Customers often came for the weird part.
 
@@ -159,7 +175,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_10.mp4** · 10s · start `w16_still_sam_boardroom.png` · audio `w16_sam_10.mp3`
+**w16_sam_12.mp4** · 10s · start `w16_still_sam_boardroom.png` · audio `w16_sam_12.mp3`
 
 > What's the strangest thing you ever found at Big Lots? Tell me in the comments. I'm betting someone found a canoe.
 
@@ -167,7 +183,7 @@ An empty former discount store building in a strip mall at night, the faded outl
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w16_sam_11.mp4** · 10s · start `w16_still_sam_boardroom.png` · audio `w16_sam_11.mp3`
+**w16_sam_13.mp4** · 10s · start `w16_still_sam_boardroom.png` · audio `w16_sam_13.mp3`
 
 > Next week, something special. We're going back in time to walk through a 1985 Sears, aisle by aisle. It's right here.
 

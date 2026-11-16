@@ -58,7 +58,17 @@ It starts with a box of watches nobody wanted. In 1886, a young railroad station
 
 He needed someone who could actually fix watches, so he hired a watchmaker named Alvah Roebuck. By 1893 the company was called Sears, Roebuck and Company, and it had stopped being about watches.
 
+Roebuck, by the way, didn't last. The pace wore him out. Richard Sears worked like a man who never planned to sleep, writing nearly every word of the catalog himself, and in 1895 Roebuck sold his share and walked away. His name stayed on the company for the next hundred and twenty years. He didn't.
+
+[ARCHIVE: Julius Rosenwald portrait; Rosenwald school photos, 1910s to 1930s | Julius Rosenwald; Rosenwald school]
+
+The man who bought in was a Chicago clothing dealer named Julius Rosenwald. And if Richard Sears was the salesman, Rosenwald was the engineer. He's the one who turned a loud, chaotic mail-order shop into a system, and later, as president, he gave away a fortune. He helped pay for thousands of schools for Black children across the rural South. Remember his name for a second, because he understood something the later bosses forgot. A company is a set of promises to real people, and you keep them even when nobody's checking.
+
 Here's what Sears understood. In 1900, most Americans still lived in the country. Their choice was the general store, with a small selection and high prices. Sears offered them everything, at city prices, with a famous promise: if you don't like it, send it back.
+
+Historians point out something else about that catalog. In the Jim Crow South, a Black family walking into a small-town store could be made to wait, refused credit, or charged more. The catalog didn't care who you were. The price was printed on the page, and the order form looked the same for everyone. For a lot of families, the wish book was the first store that treated them like any other customer.
+
+[GFX: Catalog page detail, price column highlighted, "Same price for everyone"]
 
 [GFX: Map, rural free delivery routes spreading across the US, 1896 to 1913]
 
@@ -70,11 +80,17 @@ And then the government handed Sears a gift. Free mail delivery to rural homes a
 
 By 1906 Sears had built a mail-order plant in Chicago so big it was among the largest business buildings in the world. Orders came in by the thousands every day, and a system of chutes, belts and timetables sent them out again. People came from other countries just to watch how it worked.
 
+Every order got a time slot. If your order was scheduled to leave at ten fifteen, every item had to reach the shipping floor by ten fifteen, from whatever department it lived in, or that department heard about it. It sounds obvious now. In 1906 it was close to magic. Henry Ford is often said to have studied systems like it before he built his assembly line.
+
 SAM (study) {makes a small circle with one finger on the desk}: Here's the thing. The genius wasn't the catalog. It was the machine behind the catalog. Order, warehouse, delivery, returns. That's Amazon. In 1906.
 
 [REC 04 | 1920s | Men in flat caps assembling a wooden house frame from numbered lumber on a grassy lot in a 1920s Ohio suburb, a boxcar-delivered stack of lumber beside them | Two men raise a wall frame into place and brace it; camera static, wide | 6]
 
 And then there were the houses. From 1908 to 1940, Sears sold kit homes through the mail. You picked your model, a bungalow or a two-story, and about thirty thousand pieces arrived on a railroad car, every board numbered, with a thick instruction book. Tens of thousands of families built them, and many are still standing. People find Sears part numbers stamped on the beams in their attic.
+
+Sears sold other things you might not expect, too. For a few years before the First World War, you could order a car from the catalog, a high-wheeled buggy with a motor. Later, in the fifties, Sears sold a car under its own Allstate name. Neither lasted. But it tells you how Sears saw itself. If Americans wanted it, Sears would find a way to put it on a page and get it to your door.
+
+SAM (study) {taps two fingers on the desk, unhurried}: That attitude is the whole company in one sentence. Remember that. It comes back.
 
 ## Chapter 2: The golden age (4:30 to 7:30)
 
@@ -83,6 +99,8 @@ And then there were the houses. From 1908 to 1940, Sears sold kit homes through 
 [ARCHIVE: First Sears retail store, Chicago 1925; Sears department stores 1950s | Sears store 1950s]
 
 By the 1920s, cars changed everything. Farmers could drive to town. So Sears, led by a former army general named Robert Wood, did something risky. It opened stores. Big ones, with parking lots, on the edge of town. Within a few years the stores were selling more than the catalog.
+
+Wood was a strange man for the job. He'd run supplies for the army, and he read census reports for fun. What he saw in them was simple: Americans were moving to towns and buying cars, and a store built around the railroad was about to be built around the wrong thing. So he moved first, before the catalog started shrinking, not after. It's the opposite of nearly every decision in the second half of this story.
 
 [REC 05 | 1950s | A busy 1950s department store tool aisle, a father and teenage son in Saturday clothes holding a socket wrench set, red pegboard walls of hand tools, no logos | The father turns the wrench set in his hands and nods; the son grins; camera static at waist height | 6]
 
@@ -106,6 +124,8 @@ While Sears was building its tower, two discount chains were growing in places S
 
 [GFX: Line chart, US retail sales, Sears vs Walmart, 1980 to 1995, Walmart crossing around 1990]
 
+Inside Sears headquarters, nobody panicked, because the numbers still looked fine. Sears was huge. It had decades of loyal customers, and a credit operation that made money on its own. The danger was slow, the kind that doesn't show up in one quarter. Each year, a few more families drove past Sears to the discount store, because the same box of detergent was a dollar cheaper.
+
 Sears' answer was to look for growth somewhere else. In 1981 it bought a stockbroker, Dean Witter, and a real estate company, Coldwell Banker. The plan was that you'd buy a drill, open a brokerage account and sell your house, all at Sears. People joked about it. Socks and stocks.
 
 [REC 07 | 1980s | A 1980s department store with a brokerage desk set up between the appliance aisle and the paint counter, a man in a suit talking to a couple in windbreakers, flat fluorescent light | The broker slides a brochure across the desk; the couple glance at each other; camera static, medium-wide | 6]
@@ -114,9 +134,17 @@ It also launched a credit card in 1985 called Discover. That one, to be fair, wo
 
 But around 1990, the unthinkable happened. Walmart passed Sears as the biggest retailer in the country. Sears had been number one for most of the century.
 
+[ARCHIVE: News coverage, Sears closes stores to re-price, March 1989 | Sears everyday low prices 1989]
+
+Sears did try to fight back on price. In 1989 it closed every store in the country for about two days, re-marked the prices, and reopened promising everyday low prices, just like the discounters. It didn't work. Sears' costs were built for an old, expensive way of running stores, and you can't print a lower price on a tag and make a hundred years of overhead disappear.
+
 [ARCHIVE: News coverage of Sears ending the big catalog, January 1993 | Sears catalog discontinued 1993]
 
 In 1993 Sears cut tens of thousands of jobs, closed more than a hundred stores, and did something that felt like the end of an era. It killed the big general catalog. The wish book was gone.
+
+And a couple of years later, Sears moved out of the Sears Tower, to an office park in the suburbs. The name stayed on the building for a while longer. The company didn't.
+
+SAM (study) {holds up one hand, pausing the story}: Now, here's where most versions of this story jump straight to Amazon. Don't. Because there's a chapter in between that almost nobody tells.
 
 ## Chapter 4: The secret (10:00 to 12:30)
 
@@ -136,6 +164,8 @@ SAM (location) {lifts the edge of a dust sheet and lets it drop}: It had everyth
 
 Prodigy was expensive, slow, and Sears saw it as a sideshow. In 1996 it sold its share. Two years earlier, a man in a garage in Seattle had started selling books online.
 
+Think about what Sears was holding at that moment. Millions of customers who already trusted it to send things by mail. A credit card in their wallets. A brand name every grandparent knew. Warehouses, trucks and a hundred years of know-how about returns. A small online bookseller had none of that. It had to build every single piece from nothing, and it did, while Sears was busy selling the pieces it already had.
+
 [REC 09 | 1990s | A 1990s strip-mall Sears-style catalog pickup desk, an older woman collecting a boxed order from a clerk, wood-grain counter, overhead fluorescent light, no logos | The clerk lifts the box onto the counter; she signs a slip; camera static | 6]
 
 The machine that had beaten every general store in America, the one that brought the store to your house, had been built by Sears. And Sears walked away from it right before it mattered most.
@@ -149,6 +179,8 @@ The machine that had beaten every general store in America, the one that brought
 In 2004 a hedge fund manager named Eddie Lampert, who already controlled Kmart, bought Sears for about eleven billion dollars. He put the two together and called it Sears Holdings. Together they had about thirty-five hundred stores.
 
 Lampert was famous on Wall Street, a brilliant investor. And he had a theory. Big companies get lazy. So he'd break Sears into dozens of separate business units, tools, appliances, clothing, the website, each with its own boss and its own profits, and let them compete.
+
+He also ran the company from a distance. For long stretches, Lampert lived in Florida and joined meetings by video link, his face on a screen at the end of the table in Illinois. Former executives described meetings where unit heads made their case to that screen, knowing the decision would come from somewhere else.
 
 [REC 10 | 2000s | Executives in separate glass-walled offices along a corridor, each on the phone and gesturing, one slamming a folder down, cool fluorescent light, figures in silhouette | One man hangs up hard and stares at the next office; camera tracks slowly along the corridor | 6]
 
@@ -166,6 +198,12 @@ Sears spent billions buying back its own shares, and it spent far less fixing up
 
 The more it sold, the less there was to save.
 
+[GFX: Running total, Sears Holdings losses year by year, 2011 to 2017]
+
+And there's one more piece. When Sears ran short of cash, it borrowed. Some of that money came from Lampert's own fund. So the man running the company was also one of the lenders it owed. If Sears did well, he gained as an owner. If Sears went under, his fund stood near the front of the line to be paid back. Lampert has always said he was trying to save Sears, and that he put in more of his own money than anyone. Critics have a different view. You can decide.
+
+SAM (location) {stands still beside a covered rack, voice low}: Here's the thing. Nobody had to be a villain for this to go wrong. You just needed a company where the person deciding wasn't the person who'd live with the result.
+
 ## Chapter 6: The last day (15:30 to 17:00)
 
 [GFX: Chapter card "Is there still a Sears?"]
@@ -173,6 +211,8 @@ The more it sold, the less there was to save.
 [ARCHIVE: Bankruptcy coverage, October 2018; closing-sale signs | Sears bankruptcy 2018]
 
 On October 15th, 2018, Sears filed for bankruptcy. A few months later, Lampert's own fund bought what was left out of bankruptcy, a few hundred stores. Most of those closed too.
+
+At the filing, Sears still had around seven hundred stores and tens of thousands of employees. Many had worked there for twenty or thirty years. Some had pensions that came up short and were taken over by a federal agency that steps in when company pension plans fail. If you'd sold Craftsman wrenches since the eighties, you weren't thinking about holding companies or real estate deals. You were thinking about whether the store would open on Monday.
 
 [REC 12 | 2010s | An empty mall department store entrance, the store dark behind a pulled-down steel security grille, mall corridor lights on outside, an empty bench | A mall security guard walks past the grille without looking; camera static, wide | 6]
 
@@ -222,6 +262,16 @@ Sources to use: Sears Archives (searsarchives.com), Encyclopaedia Britannica, th
 | 18 | Lands' End, Sears Canada, Craftsman (2017) sold; Seritage REIT store sale | Dates |
 | 19 | Bankruptcy Oct 15, 2018; ESL bought remaining stores early 2019 | Dates |
 | 20 | Only a handful of Sears stores left | Count as of upload |
+| 21 | Roebuck sold his share in 1895 | Year, price |
+| 22 | Julius Rosenwald bought in (1895), later president; funded about 5,000 Rosenwald schools | Dates, school count |
+| 23 | Catalog let Black customers in the Jim Crow South avoid discrimination at local stores | Historian source to cite |
+| 24 | Scheduled-order system at the Chicago plant; Ford said to have studied it | Soften to "is often said" or cut if no source |
+| 25 | Sears sold a motor buggy by catalog (about 1908 to 1912) and the Allstate car (1952 to 1953) | Dates |
+| 26 | 1989: stores closed about two days to re-price for "everyday low prices" | Date, length |
+| 27 | Sears left the Sears Tower for Hoffman Estates in the 1990s | Year |
+| 28 | Lampert ran meetings by video from Florida | Bloomberg Businessweek 2013 |
+| 29 | ESL lent money to Sears; Sears lost money every year 2011 to 2017 | 10-K figures |
+| 30 | About 700 stores at filing; PBGC took over pension plans | Store count; PBGC 2019 |
 
 ## Shorts cut from this video
 

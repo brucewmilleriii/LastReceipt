@@ -35,7 +35,7 @@ Seedance takes audio up to 15 seconds, so no Sam line is longer than that. If a 
 
 ## Free week day plan (Nov 17 to 23)
 
-There are about 427 documentary clips and 141 Shorts clips, roughly 80 to 90 a day. Do the documentaries in release order, so the earliest uploads are safest.
+There are about 448 documentary clips and 141 Shorts clips, roughly 80 to 90 a day. Do the documentaries in release order, so the earliest uploads are safest.
 
 | Day | Work | About |
 |---|---|---|
@@ -70,6 +70,10 @@ Every documentary has an `4_archive_and_graphics.md` list of real photos and foo
 ## Labels and disclosure
 
 Recreation clips get a small "Recreation" label in a lower corner in the edit, as documentaries do. When uploading, tick YouTube's "altered or synthetic content" box, and keep the AI-host line in every description: "Sam is an AI-presented host. The research, writing and editing are done by real people."
+
+## Script lengths
+
+The narration runs about 11 to 16 minutes per documentary before archive pauses, music beats and the end screen, which usually add a minute or two. W17 is a slow walkthrough with room for ambient sound between lines. Narration over archive and graphics needs no Higgsfield work, so it can still be edited after the free week.
 
 ## Two scripts are frames, not finished
 

@@ -1,6 +1,6 @@
 # Borders Books Handed Its Future to Amazon: Higgsfield prompts
 
-Publish 2027-02-23 · about 5.2 min · 11 Sam clips · 12 recreation clips · 5 archive items to source.
+Publish 2027-02-23 · about 11.3 min · 12 Sam clips · 12 recreation clips · 8 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -147,7 +147,15 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans back. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_07.mp4** · 6s · start `w14_still_sam_boardroom.png` · audio `w14_sam_07.mp3`
+**w14_sam_07.mp4** · 9s · start `w14_still_sam_study.png` · audio `w14_sam_07.mp3`
+
+> Each store stocking the books its own neighbourhood wants. Does that sound familiar? It's what Borders did in 1975.
+
+```
+@Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Opens the hardback and closes it gently. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
+```
+
+**w14_sam_08.mp4** · 6s · start `w14_still_sam_boardroom.png` · audio `w14_sam_08.mp3`
 
 > So what killed Borders? Amazon, of course. Everybody says Amazon.
 
@@ -155,7 +163,7 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Stands at the head of the table, a hardback in hand. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_08.mp4** · 14s · start `w14_still_sam_boardroom.png` · audio `w14_sam_08.mp3`
+**w14_sam_09.mp4** · 14s · start `w14_still_sam_boardroom.png` · audio `w14_sam_09.mp3`
 
 > But Borders didn't lose to the internet. It outsourced it. It took the one thing it was best at, knowing its customers, and gave it to the company that would replace it.
 
@@ -163,7 +171,7 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets the book on the table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_09.mp4** · 12s · start `w14_still_sam_boardroom.png` · audio `w14_sam_09.mp3`
+**w14_sam_10.mp4** · 12s · start `w14_still_sam_boardroom.png` · audio `w14_sam_10.mp3`
 
 > The lesson is short. Never outsource the part of your business that's going to matter most in ten years. Even if it's losing money today.
 
@@ -171,7 +179,7 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Looks into the lens. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_10.mp4** · 12s · start `w14_still_sam_boardroom.png` · audio `w14_sam_10.mp3`
+**w14_sam_11.mp4** · 12s · start `w14_still_sam_boardroom.png` · audio `w14_sam_11.mp3`
 
 > Was there a bookstore you used to get lost in? Tell me which one, and which city. I'd like to know if it's still there.
 
@@ -179,7 +187,7 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Small smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_11.mp4** · 9s · start `w14_still_sam_boardroom.png` · audio `w14_sam_11.mp3`
+**w14_sam_12.mp4** · 9s · start `w14_still_sam_boardroom.png` · audio `w14_sam_12.mp3`
 
 > Next week, the company that once made four out of every ten phones on Earth. Nokia. It's right here.
 
