@@ -36,7 +36,7 @@ They hadn't done anything wrong. That was the point. They were the best paid sal
 
 And they'd be replaced, it said, with people who'd do the job for less.
 
-SAM (study) {folds his hands on the desk}: Circuit City saved some money that year. Less than two years later, the company was gone.
+SAM (study) {folds his hands on the desk}: Circuit City saved some money that year. Two years later, the company was gone.
 
 SAM (study) {looks into the lens}: I'm Sam. This is Last Receipt. Tonight, what happened to Circuit City, and how a great company talked itself out of the one thing customers came for.
 

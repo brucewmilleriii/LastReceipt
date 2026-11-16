@@ -1,6 +1,6 @@
 # Nokia: From 40% of All Phones to a Footnote: Higgsfield prompts
 
-Publish 2027-03-02 · about 12.2 min · 14 Sam clips · 11 recreation clips · 10 archive items to source.
+Publish 2027-03-02 · about 12.1 min · 14 Sam clips · 11 recreation clips · 10 archive items to source.
 
 Work top to bottom. Every prompt below is ready to paste. Save each result under the name in bold so the editor can find it.
 
@@ -117,9 +117,9 @@ An old grey candybar phone lying on a wooden table beside a modern smartphone, s
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Dry smile. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w15_sam_04.mp4** · 11s · start `w15_still_sam_location.png` · audio `w15_sam_04.mp3`
+**w15_sam_04.mp4** · 10s · start `w15_still_sam_location.png` · audio `w15_sam_04.mp3`
 
-> Think about that. One company, in a country of five and a half million people, made about four in every ten phones on Earth.
+> Think about that. One company, in a country of about five million people, made about four in every ten phones on Earth.
 
 ```
 @Sam-Hollis stands in the story location, speaking directly to camera in sync with the attached audio. Walks along a row of empty white workbenches. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.

@@ -117,7 +117,7 @@ A lone shopping cart rolling slowly across a cracked, empty parking lot at sunse
 
 **w04_sam_03.mp4** · 13s · start `w04_still_sam_study.png` · audio `w04_sam_03.mp3`
 
-> Walmart, in those years, was a handful of stores in small towns in Arkansas. If you'd had to bet in 1970, you'd have bet on Kmart. Everybody did.
+> Walmart, in those years, was a few dozen stores in small towns around Arkansas. If you'd had to bet in 1970, you'd have bet on Kmart. Everybody did.
 
 ```
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans back. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.

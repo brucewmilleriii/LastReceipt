@@ -92,7 +92,7 @@ At its height Nokia was the most valuable company in Europe, and by itself a hug
 
 At one point, Nokia was responsible for a large slice of everything Finland sold abroad. Finnish students dreamed of working there. Its headquarters near Helsinki was a glass building by the sea, and its engineers were treated like national heroes. When Nokia did well, Finland did well. Remember that, because when Nokia fell, a whole country felt it.
 
-SAM (location) {walks along a row of empty white workbenches}: Think about that. One company, in a country of five and a half million people, made about four in every ten phones on Earth.
+SAM (location) {walks along a row of empty white workbenches}: Think about that. One company, in a country of about five million people, made about four in every ten phones on Earth.
 
 ## Chapter 3: The phone in the drawer (6:30 to 9:30)
 

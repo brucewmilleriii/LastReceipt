@@ -66,7 +66,7 @@ And then Kmart did what Kresge knew how to do. It opened stores. Fast. Dozens a 
 
 In one year in the seventies, it opened more than two hundred. Picture that. A brand-new store, the size of a football field, opening somewhere in America roughly every working day. In 1977 the old Kresge company changed its name to Kmart, because by then almost everything it earned came from those big stores.
 
-SAM (study) {leans back}: Walmart, in those years, was a handful of stores in small towns in Arkansas. If you'd had to bet in 1970, you'd have bet on Kmart. Everybody did.
+SAM (study) {leans back}: Walmart, in those years, was a few dozen stores in small towns around Arkansas. If you'd had to bet in 1970, you'd have bet on Kmart. Everybody did.
 
 [ARCHIVE: Early Target stores, Minnesota, 1960s | Target store 1960s]
 

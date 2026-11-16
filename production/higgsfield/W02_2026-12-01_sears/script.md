@@ -220,7 +220,7 @@ Today there are only a handful of Sears stores left in America. The company that
 
 ## The verdict (17:00 to 18:30)
 
-SAM (boardroom) {sets an old catalog on the long table}: So what killed Sears? Most people say Amazon. Some say Walmart. Some say one man in Connecticut.
+SAM (boardroom) {sets an old catalog on the long table}: So what killed Sears? Most people say Amazon. Some say Walmart. Some say one hedge fund manager.
 
 SAM (boardroom) {taps the catalog}: Here's my verdict. Sears lost the moment it stopped seeing itself as a machine for getting things to people, and started seeing itself as a pile of assets.
 

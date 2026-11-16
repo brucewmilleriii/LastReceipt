@@ -163,7 +163,7 @@ Some of those notes were funny. Some were angry. Many were simply thank yous, fr
 
 Barnes and Noble survived. It had a rough decade. But in recent years it's actually been opening stores again, under a boss who gave each store's managers the freedom to choose books for their own neighbourhood.
 
-SAM (study) {opens the hardback and closes it gently}: Each store stocking the books its own neighbourhood wants. Does that sound familiar? It's what Borders did in 1975.
+SAM (study) {opens the hardback and closes it gently}: Each store stocking the books its own neighbourhood wants. Does that sound familiar? It's what Borders did in the seventies.
 
 [REC 12 | 2010s | A single book left lying on an otherwise empty bookshelf in a closed bookstore, the overhead lights switching off row by row toward camera | The last row of lights clicks off; camera static | 6]
 

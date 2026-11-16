@@ -181,7 +181,7 @@ An empty mall department store entrance, the store dark behind a pulled-down ste
 
 **w02_sam_11.mp4** · 8s · start `w02_still_sam_boardroom.png` · audio `w02_sam_11.mp3`
 
-> So what killed Sears? Most people say Amazon. Some say Walmart. Some say one man in Connecticut.
+> So what killed Sears? Most people say Amazon. Some say Walmart. Some say one hedge fund manager.
 
 ```
 @Sam-Hollis stands at the head of the long oak table in the empty boardroom at dusk, speaking directly to camera in sync with the attached audio. Sets an old catalog on the long table. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.

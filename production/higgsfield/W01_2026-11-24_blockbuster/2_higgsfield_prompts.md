@@ -141,7 +141,7 @@ A small-town strip-mall video store at dusk under tall pine trees in central Ore
 
 **w01_sam_06.mp4** · 12s · start `w01_still_sam_study.png` · audio `w01_sam_06.mp3`
 
-> You're running a company with six billion dollars in sales. Thousands of stores. And these guys, losing money mailing discs in envelopes, want fifty million.
+> You're running a company with about five billion dollars in sales. Thousands of stores. And these guys, losing money mailing discs in envelopes, want fifty million.
 
 ```
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Spreads both hands on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.

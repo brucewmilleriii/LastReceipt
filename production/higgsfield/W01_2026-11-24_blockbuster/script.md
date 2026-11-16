@@ -106,7 +106,7 @@ So Hastings, Randolph and their finance chief, Barry McCarthy, went to Dallas. T
 
 Now, it's easy to laugh at Blockbuster here. But put yourself in that chair.
 
-SAM (study) {spreads both hands on the desk}: You're running a company with six billion dollars in sales. Thousands of stores. And these guys, losing money mailing discs in envelopes, want fifty million.
+SAM (study) {spreads both hands on the desk}: You're running a company with about five billion dollars in sales. Thousands of stores. And these guys, losing money mailing discs in envelopes, want fifty million.
 
 SAM (study) {shrugs once}: In the year 2000, hardly anybody even owned a DVD player. Saying no wasn't crazy. Saying no was the sensible thing to do.
 

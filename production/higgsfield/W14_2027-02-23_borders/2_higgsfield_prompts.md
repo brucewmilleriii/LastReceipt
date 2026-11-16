@@ -147,9 +147,9 @@ A single book left lying on an otherwise empty bookshelf in a closed bookstore, 
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Leans back. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
 ```
 
-**w14_sam_07.mp4** · 9s · start `w14_still_sam_study.png` · audio `w14_sam_07.mp3`
+**w14_sam_07.mp4** · 10s · start `w14_still_sam_study.png` · audio `w14_sam_07.mp3`
 
-> Each store stocking the books its own neighbourhood wants. Does that sound familiar? It's what Borders did in 1975.
+> Each store stocking the books its own neighbourhood wants. Does that sound familiar? It's what Borders did in the seventies.
 
 ```
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Opens the hardback and closes it gently. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.

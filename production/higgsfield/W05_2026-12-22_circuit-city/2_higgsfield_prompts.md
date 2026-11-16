@@ -99,9 +99,9 @@ A former big-box storefront being bricked over by two masons, an outline of a pl
 
 **Step B, Sam clips (Seedance 2.0, 16:9, 1080p, mode std).** Start image = the Sam still for that set. Audio reference = the ElevenLabs file with the same name. Turn native audio off if the toggle is shown; the ElevenLabs file is laid back over the clip in the edit either way.
 
-**w05_sam_01.mp4** · 8s · start `w05_still_sam_study.png` · audio `w05_sam_01.mp3`
+**w05_sam_01.mp4** · 7s · start `w05_still_sam_study.png` · audio `w05_sam_01.mp3`
 
-> Circuit City saved some money that year. Less than two years later, the company was gone.
+> Circuit City saved some money that year. Two years later, the company was gone.
 
 ```
 @Sam-Hollis sits at his walnut desk in the warm home study, banker's lamp at frame left, speaking directly to camera in sync with the attached audio. Folds his hands on the desk. Natural blinks, small unplanned head movements, breathing visible in the shoulders, lips match every syllable. Camera locked off on a tripod, no movement. Real-time speed, no slow motion. Keep every face, outfit, object and light exactly as in the start frame. One camera move only, as written. No text, no logos. No microphone, no screens, no on-screen text, no logos, no other people.
