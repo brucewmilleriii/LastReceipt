@@ -4,6 +4,10 @@ Business-collapse documentaries hosted by Sam Hollis (an AI presenter, disclosed
 This repo holds the Claude skills used to make each video. Any Claude session that opens
 this repo picks them up automatically from `.claude/skills/`.
 
+> **Rule #1: it must not look like AI.** The most important thing on this channel is that
+> every video looks as realistic as possible. When speed or cost conflicts with realism,
+> realism wins. The full rule and the AI tells to reject are in [`CLAUDE.md`](CLAUDE.md).
+
 The skills are arranged below as the order a video is actually made in. Each step names
 the skill to use, what to ask for, and what comes out. Two skills used here live on your
 Claude account rather than in this repo: `last-receipt-packaging` and
