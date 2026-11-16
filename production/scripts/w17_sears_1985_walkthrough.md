@@ -34,6 +34,8 @@ Format note: this is a slow, warm walk, not a collapse story. Music stays soft a
 
 It's a Saturday morning in 1985. The car's parked. Your mom has a list, your dad wants to look at tools, and you have three dollars of birthday money burning a hole in your pocket.
 
+The radio in the car was playing something with a lot of synthesizer in it. Gas was about a dollar and twenty a gallon. Nobody had a phone in their pocket, so if you got separated in the store, the plan was to meet at the candy counter. Everybody knew where the candy counter was.
+
 [REC 02 | 1980s | Glass double doors of a department store opening from inside onto a bright mall corridor in 1985, sunlight and shoppers beyond, the camera inside looking out | The doors swing open and a family walks in past camera; camera static at waist height | 5]
 
 SAM (location) {stands in the bright empty aisle, hands in his pockets}: We're going to Sears. Not the story of how it fell. Just a walk. Aisle by aisle, with what things actually cost.
@@ -54,15 +56,23 @@ First stop, right by the door. The catalog desk. In 1985, Sears still printed it
 
 And if it was autumn, there was the Wish Book. The Christmas catalog. Kids circled things in it for weeks.
 
+Some families had a rule: you could circle as many things as you liked, but you had to write your name next to each circle, so your brothers and sisters knew whose was whose. By December the pages were soft from being turned. If you got even one of your circles, it was a good Christmas.
+
+SAM (location) {mimes holding a heavy book in both hands}: That catalog weighed about as much as a small dog. People used old ones as doorstops, booster seats, and in some farmhouses, far less polite things.
+
 ## Appliances (2:30 to 4:30)
 
 [REC 05 | 1980s | A long row of almond-coloured washing machines and dryers on display in a 1985 department store, lids open, tags on each (blank), a salesman in a short-sleeve shirt and tie leaning on one | The salesman lifts a lid and gestures inside for an unseen customer; camera dollies slowly along the row | 7]
+
+[GFX: Lower third, "Kenmore: sold by Sears since 1927"]
 
 Appliances. The heart of Sears. Kenmore washers and dryers in almond, harvest gold or white. A good Kenmore washer was around four hundred dollars. That's about a week and a half of take-home pay for a lot of families in 1985.
 
 [REC 06 | 1980s | A 1985 kitchen appliance display with a fridge in almond finish, a microwave oven with a mechanical dial timer on a counter, a couple examining the microwave, fluorescent light | The man turns the dial and the microwave's light comes on; his wife laughs; camera static, medium | 6]
 
 And the new thing everyone wanted: a microwave. A countertop microwave ran a couple of hundred dollars. People were still learning what you could put in one. Not foil. We all learned that one.
+
+The salesman in appliances was usually somebody who'd worked there for years. He'd tell you which washer had the better motor, which one his own wife had at home, and which one he'd skip if he were you. Sears paid a lot of its salespeople partly on commission, and the good ones built up regular customers over decades. You didn't buy a washer from Sears. You bought it from Frank.
 
 SAM (location) {rests a hand on a washer lid}: Here's the thing about Kenmore. It wasn't made by Sears. Other companies built them, and Sears put its name on them and stood behind them. That promise was the product.
 
@@ -82,6 +92,8 @@ A big mechanic's set might run over a hundred dollars. A single wrench, a few do
 
 Around the corner, the auto center. DieHard batteries, tires, and a bay where they'd fix your car while you shopped.
 
+And past that, if it was spring, the garden department. Push mowers and riding mowers lined up in a row, bags of fertilizer stacked on pallets, garden hoses coiled on hooks. A Craftsman push mower was a couple of hundred dollars, and a lot of them were still starting on the first pull twenty years later. If you were a kid, this was the boring bit. Your dad would stand in front of the mowers for what felt like an hour, reading every tag.
+
 ## Electronics (6:30 to 8:30)
 
 [REC 10 | 1980s | A 1985 department store electronics section with a wall of wood-grain console TVs and smaller TV sets all showing the same colourful bars pattern (no readable picture), a family watching, fluorescent light | The kids press closer to one TV; the father checks a price tag; camera static, wide | 6]
@@ -96,6 +108,12 @@ And the big one: a VCR. In 1985 a VCR could still cost three or four hundred dol
 
 A portable cassette player with headphones, the kind every teenager wanted, ran somewhere from thirty to sixty dollars.
 
+And next to the cassette players, a rack of blank tapes. Teenagers bought them by the stack, to record songs off the radio, finger hovering over the record button, waiting for the DJ to stop talking. If he talked over the start of the song, you'd have to wait for him to play it again. Sometimes that took days.
+
+[ARCHIVE: Sears home computer and electronics catalog pages, 1985 | Sears catalog 1985 electronics]
+
+There might even have been a home computer on display, plugged into a TV, with a sign inviting kids to try it. Most of them ended up typing the same two-line program: print your name, and go back and print it again, forever, down the screen.
+
 ## The toy department (8:30 to 11:00)
 
 [REC 13 | 1980s | A 1985 department store toy department with shelves of soft dolls in boxes, robot toys, and board games, children running between the aisles, bright light, no logos | A girl lifts a boxed doll off the shelf and hugs it; camera handheld at child height | 6]
@@ -107,6 +125,8 @@ In 1985, the toy everyone was fighting over was a soft doll with a birth certifi
 [REC 14 | 1980s | A shelf of transforming robot toys in boxes and a boy turning one from a robot into a truck, 1985 toy aisle, bright light | His hands fold the robot into a truck shape and he grins; camera static, close | 5]
 
 Robots that turned into trucks. Action figures. Board games stacked to the ceiling.
+
+If you were lucky, there was a demo of a remote-control car going around a little track on the floor, and a crowd of kids who weren't going anywhere until somebody's parents dragged them off. Three dollars wouldn't buy much here. But looking was free, and you could make a mental list for your birthday. Most kids did.
 
 [REC 15 | 1980s | A video game section in 1985 with a bargain bin of game cartridges marked down, a boy digging through it, an older console on display beside it | He pulls out a cartridge, reads the back, drops it back in; camera static, medium | 5]
 
@@ -122,6 +142,8 @@ SAM (location) {drops it back}: That October, a Japanese company launched a new 
 
 The kids' department. If you were a kid in the seventies or eighties, there's a chance your mother bought you a pair of jeans from Sears with knees so reinforced they could stand up on their own. Toughskins. Indestructible. Also, not cool.
 
+Back-to-school shopping at Sears was a ritual. A new pair of jeans, a few shirts, maybe a jacket a size too big so you'd grow into it. Sears even had a husky section for bigger kids, which they never let you forget at school.
+
 [REC 17 | 1980s | A men's department in 1985 with racks of short jackets with a strap collar and pastel polo shirts, a young man trying on a jacket in a three-way mirror | He turns to see the back and pops the collar; camera static, medium | 5]
 
 ## The portrait studio and the candy counter (12:30 to 14:00)
@@ -134,6 +156,8 @@ Tucked in a corner, the portrait studio. A mottled blue backdrop, a photographer
 
 And then, on the way out, the candy counter. Warm nuts under a glass case. Cashews, Spanish peanuts, by the quarter pound. If you grew up near a Sears, you can probably smell it right now.
 
+There were chocolate-covered raisins, malt balls, orange slice candies coated in sugar, and red licorice in long ropes. The clerk weighed everything on a little metal scale with a needle. A quarter pound of warm cashews might cost about a dollar. If you were very good, and very patient, you got to choose.
+
 SAM (location) {holds a small white paper bag}: Here's where your three dollars of birthday money went. Every time.
 
 ## The credit desk (14:00 to 15:00)
@@ -144,11 +168,15 @@ SAM (location) {holds a small white paper bag}: Here's where your three dollars 
 
 One more stop. The credit desk. Sears had its own store card for decades. And around 1985, Sears was launching something new: a general credit card, called Discover. It still exists. Most people have no idea Sears started it.
 
+And here's something to notice while you stand in line. In 1985, Sears didn't just sell you things. It lent you the money to buy them, insured your car through Allstate, and, at some stores, could sell you stocks or help you find a house. It was trying to be everything. Remember that if you watch the full Sears story. It's where things start to go wrong.
+
 ## Out to the mall (15:00 to 16:00)
 
 [REC 21 | 1980s | A busy 1985 shopping mall concourse with a fountain, potted plants, a skylight, teenagers on a bench, shoppers with bags, warm and bright | A teenager tosses a coin into the fountain; shoppers stream past; camera slowly glides forward | 7]
 
 And then you walk out into the mall. The fountain. The arcade. The pretzel smell. A whole Saturday, gone.
+
+You'd hear the arcade before you saw it, a wall of beeps and explosions coming out of a dark doorway. There was a record store with the new albums on the wall, a store that sold nothing but calendars, and a food court where your parents finally let you sit down. Somewhere a kid was crying because the day was over. Possibly you.
 
 [REC 22 | modern | The same kind of mall concourse today: the fountain dry, most storefronts behind steel grilles, a single mall walker in the distance, skylight daylight | The walker passes the dry fountain; camera static, same wide angle as the 1985 shot | 7]
 
@@ -184,6 +212,12 @@ Check every price against the 1985 Sears catalog and 1985 Christmas Wish Book sc
 | 10 | Toughskins | Years sold |
 | 11 | Discover card launched 1985-86 by Sears | Date |
 | 12 | 1985 dollars roughly three times today | CPI |
+| 13 | US gas price about $1.20 a gallon in 1985 | EIA |
+| 14 | Kenmore brand used by Sears since 1927 | Date |
+| 15 | Sears appliance salespeople paid partly on commission | Source |
+| 16 | Craftsman push mower price about $200 in 1985 | Catalog |
+| 17 | Warm cashews about $1 a quarter pound | Catalog or ad |
+| 18 | Sears in 1985: Allstate, Dean Witter brokerage desks, Coldwell Banker in some stores | Source |
 
 ## Shorts cut from this video
 
