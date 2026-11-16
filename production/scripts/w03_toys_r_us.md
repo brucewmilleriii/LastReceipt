@@ -116,7 +116,9 @@ It got worse. Amazon soon let other sellers list toys too. Toys R Us sued, said 
 
 By 2005 Toys R Us was big, slow and worried.
 
-Its share price had gone nowhere for years. Profits were thin. Walmart and Target were taking the easy toy sales, and the company's own plans kept changing. Wall Street had lost patience, and the board went looking for a way out. So the board sold the company to three investment firms: KKR, Bain Capital and a real estate company called Vornado. The price was about six point six billion dollars.
+Its share price had gone nowhere for years. Profits were thin. Walmart and Target were taking the easy toy sales, and the company's own plans kept changing. Wall Street had lost patience, and the board went looking for a way out.
+
+So the board sold the company to three investment firms: KKR, Bain Capital and a real estate company called Vornado. The price was about six point six billion dollars.
 
 Each buyer saw something different. Bain and KKR saw a famous brand they could fix. Vornado saw land. Toys R Us owned a lot of its store buildings, big boxes on busy roads, and real estate is worth something even when the business inside it isn't.
 

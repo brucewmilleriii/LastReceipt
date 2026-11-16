@@ -86,7 +86,9 @@ In 1958, Pan Am started flying the Boeing 707 from New York to Paris. The jet ag
 
 The stewardesses became famous. The blue globe logo was everywhere.
 
-A Pan Am ticket meant something. Families saved up for one trip. Business travelers bragged about it. Movie stars and the Beatles stepped off Pan Am planes in front of cameras. In a lot of countries, the first American thing many people ever saw up close was a Pan Am crew walking through their airport. Pan Am built a skyscraper on top of Grand Central Station in New York with its name across the top. When the movie 2001: A Space Odyssey showed a passenger spaceplane, it had Pan Am's logo on it.
+A Pan Am ticket meant something. Families saved up for one trip. Business travelers bragged about it. Movie stars and the Beatles stepped off Pan Am planes in front of cameras. In a lot of countries, the first American thing many people ever saw up close was a Pan Am crew walking through their airport.
+
+Pan Am built a skyscraper on top of Grand Central Station in New York with its name across the top. When the movie 2001: A Space Odyssey showed a passenger spaceplane, it had Pan Am's logo on it.
 
 [REC 04 | 1960s | A giant four-engine jumbo jet slowly rolling out of an enormous hangar into daylight for the first time in 1969, a crowd of workers watching from behind a rope | The nose clears the hangar door; the crowd raises their arms and cheers; camera static, wide | 7]
 
@@ -120,7 +122,9 @@ SAM (location) {looks out at the empty apron}: Here's the problem nobody outside
 
 The government had kept Pan Am off most domestic routes for decades.
 
-For years that hadn't mattered. Regulation had protected Pan Am's foreign routes, and it had protected the domestic airlines' routes too. Everyone stayed in their lane and fares stayed high. Deregulation tore the lanes up. Domestic airlines could now fly overseas, and they had something Pan Am didn't: millions of passengers already flying with them at home. So people in Denver or Dallas who wanted to fly to Europe started their trip on another airline, and often finished it on that airline too. Pan Am had the oceans and no roads leading to them.
+For years that hadn't mattered. Regulation had protected Pan Am's foreign routes, and it had protected the domestic airlines' routes too. Everyone stayed in their lane and fares stayed high. Deregulation tore the lanes up. Domestic airlines could now fly overseas, and they had something Pan Am didn't: millions of passengers already flying with them at home.
+
+So people in Denver or Dallas who wanted to fly to Europe started their trip on another airline, and often finished it on that airline too. Pan Am had the oceans and no roads leading to them.
 
 [REC 07 | 1980s | A new low-cost airline check-in counter in a 1980s terminal mobbed with casual travellers with duffel bags, bright flat fluorescent light, no logos | An agent hands over a boarding pass and waves the next person up; camera handheld, wide | 6]
 

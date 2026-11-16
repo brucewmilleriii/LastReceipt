@@ -168,7 +168,9 @@ SAM (study) {quietly}: They didn't lose the app race. They had already won it. A
 
 RIM did try. Its first touchscreen phone in 2008, the Storm, was clumsy and buggy.
 
-The Storm was meant to answer the iPhone. Its whole screen clicked down like a button when you pressed it, a clever idea that felt strange in the hand. It was rushed out for a big American carrier in time for Christmas. Lots of them came back. The company that had built its name on things that just worked had shipped something that didn't. Its tablet in 2011 shipped without a built-in email app, from the email company. And in late 2011 a breakdown knocked out BlackBerry service for days across much of the world.
+The Storm was meant to answer the iPhone. Its whole screen clicked down like a button when you pressed it, a clever idea that felt strange in the hand. It was rushed out for a big American carrier in time for Christmas. Lots of them came back. The company that had built its name on things that just worked had shipped something that didn't.
+
+Its tablet in 2011 shipped without a built-in email app, from the email company. And in late 2011 a breakdown knocked out BlackBerry service for days across much of the world.
 
 For a company whose whole promise was reliability, that outage hurt more than any bad review. Millions of people who'd stuck with BlackBerry out of trust spent three days staring at a phone that wouldn't send a message. Some of them used those three days to shop for something else.
 
@@ -184,11 +186,11 @@ SAM (study) {turns the old keyboard phone face down on the desk}: That's the cru
 
 [REC 10 | 2010s | An empty corporate campus parking lot in winter, snow falling on a few cars, low office buildings with dark windows | Snow falls; one car pulls out and leaves; camera static, wide | 6]
 
-In 2016 BlackBerry stopped making its own phones and became a software and security company.
+In 2016 BlackBerry stopped making its own phones and became a software and security company. And in January 2022, the old BlackBerry services were switched off. The phones still in drawers around the world couldn't make calls or send messages anymore.
 
 For a few years, other companies licensed the name and made BlackBerry-branded phones with keyboards, running Android. Some fans bought them out of loyalty. There was even talk of a new keyboard phone with modern 5G. It never shipped.
 
-The company itself survived, smaller and quieter, selling security software to businesses and governments, and software that runs inside cars. So in one sense BlackBerry is still here. You just won't find it in your pocket. And in January 2022, the old BlackBerry services were switched off. The phones still in drawers around the world couldn't make calls or send messages anymore.
+The company itself survived, smaller and quieter, selling security software to businesses and governments, and software that runs inside cars. So in one sense BlackBerry is still here. You just won't find it in your pocket.
 
 [REC 11 | 2010s | A desk drawer opening to reveal a tangle of old keyboard phones and chargers, dust on top, warm 3000 K lamp | The drawer slides open; a hand lifts one phone and looks at it; camera static, top-down | 5]
 

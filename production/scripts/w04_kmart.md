@@ -176,7 +176,9 @@ In a lot of small towns, the Kmart had been the store. The place you bought your
 
 Kmart came out of bankruptcy in 2003, much smaller. And the man who ended up in control was a hedge fund manager named Eddie Lampert.
 
-Lampert didn't buy the company the normal way. While Kmart was in bankruptcy, his fund bought up its debt cheaply. When Kmart came out the other side, that debt turned into ownership. He ended up controlling the company for a fraction of what it once had been worth. And he noticed something that the stores had been hiding. Kmart owned or leased a lot of valuable land. He sold some of those store sites to other retailers, and the share price soared. If you watched our Sears episode, you know that name. In 2004, Kmart bought Sears, and the two old giants became one company.
+Lampert didn't buy the company the normal way. While Kmart was in bankruptcy, his fund bought up its debt cheaply. When Kmart came out the other side, that debt turned into ownership. He ended up controlling the company for a fraction of what it once had been worth. And he noticed something that the stores had been hiding. Kmart owned or leased a lot of valuable land. He sold some of those store sites to other retailers, and the share price soared.
+
+If you watched our Sears episode, you know that name. In 2004, Kmart bought Sears, and the two old giants became one company.
 
 [REC 11 | 2010s | A huge red-and-white store sign being lowered by a crane from the front of a big-box building under an overcast sky, a few workers watching | The sign swings slightly as it descends; camera static, wide | 7]
 

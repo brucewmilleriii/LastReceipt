@@ -146,7 +146,9 @@ SAM (study) {leans in}: This is the part people miss. Companies rarely die from 
 
 Sales kept falling. The stock collapsed.
 
-Inside the company, the plans kept coming. New store designs. A new focus on services, like home installation. Smaller stores. Each one was announced as the fix. None of them could replace what had walked out the door. And the best people who hadn't been fired started quietly taking jobs at Best Buy, which was happy to have them. In 2008, a surprising buyer stepped forward with an offer to buy the whole company. Blockbuster. Yes, that Blockbuster, from our first episode, run at the time by Jim Keyes, who wanted to turn his stores into entertainment shops.
+Inside the company, the plans kept coming. New store designs. A new focus on services, like home installation. Smaller stores. Each one was announced as the fix. None of them could replace what had walked out the door. And the best people who hadn't been fired started quietly taking jobs at Best Buy, which was happy to have them.
+
+In 2008, a surprising buyer stepped forward with an offer to buy the whole company. Blockbuster. Yes, that Blockbuster, from our first episode, run at the time by Jim Keyes, who wanted to turn his stores into entertainment shops.
 
 SAM (study) {dry smile}: One dying chain trying to save itself by buying another dying chain. That deal fell apart in a few months, which may be the luckiest thing that ever happened to Blockbuster's shareholders.
 

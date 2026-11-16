@@ -144,9 +144,9 @@ SAM (location) {looks up at the dark atrium}: Now watch this. That's the whole s
 
 [ARCHIVE: Coverage of Skilling's resignation and the Sherron Watkins memo, August 2001 | Skilling resigns August 2001; Sherron Watkins memo]
 
-That August, Skilling suddenly quit, after only six months as CEO, for what he called personal reasons.
+That August, Skilling suddenly quit, after only six months as CEO, for what he called personal reasons. An Enron vice president, Sherron Watkins, wrote a memo to Ken Lay warning that the company might, in her words, implode in a wave of accounting scandals.
 
-Ken Lay came back to run the company. At a meeting with employees that fall, he told them he believed the stock was a bargain. Many of them believed him, because why wouldn't they? He'd built the place. Later it emerged that Lay himself had been selling large amounts of Enron shares during that period. An Enron vice president, Sherron Watkins, wrote a memo to Ken Lay warning that the company might, in her words, implode in a wave of accounting scandals.
+Ken Lay came back to run the company. At a meeting with employees that fall, he told them he believed the stock was a bargain. Many of them believed him, because why wouldn't they? He'd built the place. Later it emerged that Lay himself had been selling large amounts of Enron shares during that period.
 
 ## Chapter 5: Six weeks (12:00 to 14:30)
 
@@ -164,7 +164,9 @@ At Enron's accounting firm, Arthur Andersen, staff shredded documents. Andersen,
 
 A rival company agreed to buy Enron, then backed out.
 
-That rival was a smaller Houston energy company called Dynegy. For a few weeks, it looked like a rescue. Then Dynegy's people got a closer look at Enron's books, and at what was hidden in the side companies. They walked away. Enron's credit rating was cut to junk, the trading partners vanished, and a trading company with no trading partners has nothing left. On December 2nd, 2001, Enron filed for bankruptcy, at the time the biggest in American history.
+That rival was a smaller Houston energy company called Dynegy. For a few weeks, it looked like a rescue. Then Dynegy's people got a closer look at Enron's books, and at what was hidden in the side companies. They walked away. Enron's credit rating was cut to junk, the trading partners vanished, and a trading company with no trading partners has nothing left.
+
+On December 2nd, 2001, Enron filed for bankruptcy, at the time the biggest in American history.
 
 [REC 11 | 2000s | Office workers leaving a glass tower carrying cardboard boxes of belongings, TV news vans and cameras on the street outside, overcast day | A woman shifts her box to one arm and pushes through the revolving door; camera handheld from the street | 6]
 
