@@ -50,15 +50,27 @@ SAM (study) {small nod}: I'm Sam. This is Last Receipt. Tonight, how Kmart went 
 
 Kmart didn't come from nowhere. It came from S.S. Kresge, a chain of five-and-dime stores that started in Detroit in 1899. By the 1950s, Kresge had hundreds of stores on main streets across the country, and they were getting old, along with main street.
 
+Sebastian Kresge, the founder, was famously tight with money. The story goes that he wore his shoes until they had holes in them, and stuffed them with newspaper rather than buy new ones. That frugality built a fortune, one nickel and dime at a time. It also built a company that was very good at running small stores on main street, right as Americans were leaving main street for the suburbs.
+
 [ARCHIVE: Harry Cunningham photos; early Kmart stores, 1962 to 1970 | Harry Cunningham Kmart; Kmart 1960s]
 
 A Kresge executive named Harry Cunningham spent two years studying the new discount stores popping up in the suburbs. He came back with a plan. Big stores, out by the highways, with parking lots and low prices on everything. In 1962 he opened the first Kmart in Garden City, Michigan.
+
+It was a risky thing to pitch. Kresge's board was full of people who'd spent their whole lives in dime stores. Cunningham was asking them to bet the company on giant stores in empty fields, selling everything from car batteries to bath towels. But he had numbers, and he had nerve, and they said yes. For the next decade, it looked like the best decision any retailer had ever made.
 
 [REC 02 | 1960s | A crew building a new single-story discount store on cleared farmland beside a highway in 1965, steel frame and a huge empty parking lot being paved | A cement truck backs in; workers wave it on; camera static, wide | 6]
 
 And then Kmart did what Kresge knew how to do. It opened stores. Fast. Dozens a year, then more than a hundred a year. By the mid-seventies, Kmart was opening stores at a pace nobody had seen in American retail.
 
+[GFX: Counter, Kmart stores opened per year, 1962 to 1977, peaking above 200]
+
+In one year in the seventies, it opened more than two hundred. Picture that. A brand-new store, the size of a football field, opening somewhere in America roughly every working day. In 1977 the old Kresge company changed its name to Kmart, because by then almost everything it earned came from those big stores.
+
 SAM (study) {leans back}: Walmart, in those years, was a handful of stores in small towns in Arkansas. If you'd had to bet in 1970, you'd have bet on Kmart. Everybody did.
+
+[ARCHIVE: Early Target stores, Minnesota, 1960s | Target store 1960s]
+
+And Target? Target was the discount arm of a fancy Minneapolis department store. It decided early on that it would be the cheap store that didn't feel cheap. Cleaner aisles, nicer design, a little more style. That choice looked silly next to Kmart's raw size in 1970. It would matter a lot later, because when Walmart took the lowest price, Target already had somewhere else to stand. Kmart didn't.
 
 ## Chapter 2: The blue light (3:30 to 6:00)
 
@@ -76,6 +88,8 @@ And then there was the light. A blue police light on a pole, wheeled to a table 
 
 People loved it. It turned a trip to a discount store into a little game. It became a phrase in the language. You'll still hear people call a good deal a blue light special.
 
+The story is that it started in the mid-sixties, at a single store, with a manager who wanted to clear some stock fast. He put a police light on a pole to get people's attention. It worked so well that headquarters made it a rule for every store in the chain. Nobody planned it as a strategy. It was a trick that turned into a tradition, and then into an identity.
+
 SAM (study) {taps the desk once}: Here's the thing about the Blue Light Special. It worked. And it taught Kmart that the answer to every problem was another sale.
 
 Remember that. It comes back.
@@ -83,6 +97,12 @@ Remember that. It comes back.
 [ARCHIVE: Kmart store exteriors at their peak, 1980s | Kmart 1980s store]
 
 By the 1980s, Kmart was the second biggest retailer in America, behind only Sears. More than two thousand stores. It was so confident that it started buying other businesses. A bookstore chain. A home improvement chain. Drugstores. Later, a big stake in an office supply chain, and a sporting goods chain. It even bought the Borders bookstores.
+
+[ARCHIVE: Joseph Antonini photos and coverage, late 1980s to 1995 | Joseph Antonini Kmart]
+
+The man behind most of that buying was Joseph Antonini, who ran Kmart from the late eighties to the mid-nineties. He was a showman, a great salesman, and he loved a deal. But every dollar that went into a bookstore chain or a home improvement chain was a dollar that didn't go into Kmart's own stores, which were starting to look their age.
+
+SAM (study) {turns one hand palm up, then the other, as if weighing}: On one hand, new businesses. On the other, old stores with bad lighting and a leaky roof. You can guess which hand got the money.
 
 ## Chapter 3: Boring stuff (6:00 to 9:30)
 
@@ -106,15 +126,21 @@ SAM (location) {stops under the flickering light}: Walmart's computers knew what
 
 Walmart could move goods from the factory to the shelf for less than Kmart could. So it could charge less, every day, without a flashing light. And every day it got a little bigger.
 
+There's a word for what Walmart was doing. It's dull. Every-day-low-price. No big sales, no surprises, no reason to wait. Just the same low price on Tuesday that you'd get on Saturday. Kmart's whole personality was the opposite. Kmart was the sale. And once you train customers to wait for the sale, they stop paying full price, and you have to run another sale. And another.
+
 [GFX: Line chart, annual sales, Kmart vs Walmart, 1980 to 1995, Walmart crossing about 1990]
 
 Around 1990, Walmart passed Kmart in sales. And the gap only got wider.
+
+It's worth sitting with how strange that was. Kmart had been bigger for nearly thirty years. It had the head start, the stores in better places, the famous name. And it lost the lead to a company run by a man who drove an old pickup truck and kept his headquarters in a small town in Arkansas. Sam Walton didn't beat Kmart with a better commercial. He beat it with a better warehouse.
 
 [REC 08 | 1990s | An empty shelf in a discount store with one orphaned price tag, a fluorescent tube flickering above, 1990s | The tube flickers twice and steadies; camera static, close | 5]
 
 [REC 09 | 1990s | A shopper in a 1990s windbreaker, seen from behind, looking at an empty shelf, sighing, then walking away down the aisle | She pauses, shakes her head, walks away; camera static, wide | 6]
 
 By the late nineties, people had a word for Kmart stores. Tired. Dim lighting, cluttered aisles, empty spots where the thing you came for should have been. Kmart had sold off most of the businesses it bought. It even brought in Martha Stewart to sell sheets and towels. That actually helped. But it couldn't fix the shelves.
+
+And there was the internet. Kmart tried that too. It launched a website, BlueLight dot com, with free internet access to draw people in, right around the year 2000. Like a lot of things Kmart tried, it was a big announcement first and a working system second.
 
 ## Chapter 4: The price war (9:30 to 12:00)
 
@@ -124,6 +150,8 @@ By the late nineties, people had a word for Kmart stores. Tired. Dim lighting, c
 
 In 2000, Kmart hired a new young CEO named Chuck Conaway. He'd come from the drugstore chain CVS, and he had a bold plan. Kmart would beat Walmart on price. Head to head. He cut prices on tens of thousands of items and called it BlueLight Always.
 
+On paper, the logic was simple. Customers leave because Walmart is cheaper. So be cheaper. But price is the last step of a long chain. To sell something cheaper than Walmart and still make money, you have to buy it, move it and stock it cheaper than Walmart too. Kmart couldn't do any of those.
+
 SAM (location) {half a smile}: Now watch this. Challenging Walmart to a price war is like challenging the guy who owns the gym to a push-up contest.
 
 To pay for the price cuts, Kmart cut back on its advertising, including the weekly paper circulars that its customers had used for decades to plan their trips. So prices were a little lower, but fewer people knew. And Walmart simply matched them. Walmart could afford to. Kmart couldn't.
@@ -132,17 +160,23 @@ To pay for the price cuts, Kmart cut back on its advertising, including the week
 
 Meanwhile, the systems Kmart had been putting off for years were still a mess. Stores ran out of things. Warehouses filled up with the wrong things.
 
+Later, regulators looked closely at how Kmart reported its numbers in those last months, and Conaway himself faced charges that he'd misled investors about the company's state. He left in early 2002. But by then the problem was much bigger than one executive. It had been building for twenty years.
+
 [REC 10 | 2000s | A newspaper landing on a snowy suburban doorstep at dawn in January 2002, folded with the front page down | The paper lands and slides a little on the snow; camera static, low | 5]
 
 [ARCHIVE: Newspaper front pages about the Kmart bankruptcy, January 2002 | Kmart bankruptcy January 2002]
 
 On January 22nd, 2002, Kmart filed for bankruptcy. At the time, it was the biggest retail bankruptcy in American history. Hundreds of stores closed in the months that followed. Tens of thousands of people lost their jobs.
 
+In a lot of small towns, the Kmart had been the store. The place you bought your first bike, your school clothes, the fishing line, the birthday cake candles. When it went dark, there wasn't always a Walmart to replace it. Sometimes there was just an empty building, with the outline of the letters still showing where the sign had hung.
+
 ## Chapter 5: The long goodbye (12:00 to 14:30)
 
 [GFX: Chapter card "Who bought Kmart, and why?"]
 
-Kmart came out of bankruptcy in 2003, much smaller. And the man who ended up in control was a hedge fund manager named Eddie Lampert. If you watched our Sears episode, you know that name. In 2004, Kmart bought Sears, and the two old giants became one company.
+Kmart came out of bankruptcy in 2003, much smaller. And the man who ended up in control was a hedge fund manager named Eddie Lampert.
+
+Lampert didn't buy the company the normal way. While Kmart was in bankruptcy, his fund bought up its debt cheaply. When Kmart came out the other side, that debt turned into ownership. He ended up controlling the company for a fraction of what it once had been worth. And he noticed something that the stores had been hiding. Kmart owned or leased a lot of valuable land. He sold some of those store sites to other retailers, and the share price soared. If you watched our Sears episode, you know that name. In 2004, Kmart bought Sears, and the two old giants became one company.
 
 [REC 11 | 2010s | A huge red-and-white store sign being lowered by a crane from the front of a big-box building under an overcast sky, a few workers watching | The sign swings slightly as it descends; camera static, wide | 7]
 
@@ -154,9 +188,17 @@ It didn't save either of them. Year after year the store count fell. Fifteen hun
 
 Today, Kmart has all but disappeared from the mainland United States. The handful of stores still carrying the name are mostly far from Michigan, where it all began.
 
+And here's the strangest twist of all. If you live in Australia or New Zealand, Kmart is doing fine. It's a completely separate company there that bought the name decades ago, and today it's one of the most popular discount stores in the country. Same name. Same red letters. Built on cheap, well-stocked shelves. Which is exactly the thing the American Kmart forgot how to do.
+
+[ARCHIVE: Kmart Australia store exterior and aisles, 2020s | Kmart Australia store]
+
 [REC 12 | 2020s | A lone shopping cart rolling slowly across a cracked, empty parking lot at sunset in front of a dark, vacant big-box building, weeds in the cracks | The cart rolls across frame in a light wind and bumps a curb; camera static, wide | 6]
 
 ## The verdict (14:30 to 16:00)
+
+[GFX: Timeline recap: 1962 first Kmart, 1970s 200+ stores a year, 1980s acquisitions, 1990 Walmart passes, 2001 price war, 2002 bankruptcy, 2004 buys Sears, 2018 Sears Holdings bankrupt]
+
+Let's walk it back. A dime store that saw the future first and built it faster than anyone. A light on a pole that became a habit. Twenty years of spending on new businesses instead of the old stores. A rival that spent its money on trucks. And then a price war it was never built to win.
 
 SAM (boardroom) {stands at the head of the table}: So what killed Kmart? Most people say Walmart. And Walmart certainly won.
 
@@ -194,6 +236,14 @@ Sources: Kmart Corporation 10-K filings and 2002 Chapter 11 filings (EDGAR), *De
 | 12 | Bankruptcy Jan 22, 2002, then the largest US retail bankruptcy | Ranking |
 | 13 | Emerged 2003 under Lampert; bought Sears 2004 | Dates |
 | 14 | Store counts falling to a handful by 2026; where the last ones are | Current status |
+| 15 | Sebastian Kresge's frugality (newspaper in shoes) | Treat as anecdote; find a source or cut |
+| 16 | More than 200 Kmart stores opened in a single year in the 1970s; Kresge renamed Kmart Corporation in 1977 | Year and count |
+| 17 | Blue Light Special began mid-1960s at a single store | Year, store |
+| 18 | Joseph Antonini CEO late 1980s to 1995, led acquisitions | Dates |
+| 19 | BlueLight.com with free internet access, about 2000 | Date |
+| 20 | SEC charges against Chuck Conaway; he left in 2002 | Dates and outcome |
+| 21 | Lampert's fund bought Kmart debt in bankruptcy and took control in 2003; sold store sites to Home Depot and Sears in 2004 | Dates |
+| 22 | Kmart Australia and New Zealand are a separate company (Wesfarmers) | Current status |
 
 ## Shorts cut from this video
 
