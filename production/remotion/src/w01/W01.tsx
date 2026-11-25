@@ -4,6 +4,7 @@ import "../lib/theme";
 import { Receipt } from "../lib/Receipt";
 import { ChapterCard } from "../lib/ChapterCard";
 import { ClosedStamp } from "../lib/Stamp";
+import { W01DataGraphics } from "./W01Data";
 
 const FPS = 30;
 const W = 1920;
@@ -110,5 +111,6 @@ export const W01Graphics: React.FC = () => (
       height={H}
       defaultProps={{ photo: "w01/A16a_store_closing_2010.jpg", stampAt: 30, credit: "Photo: angelo Yap, CC BY 2.0" }}
     />
+    <W01DataGraphics />
   </Folder>
 );
