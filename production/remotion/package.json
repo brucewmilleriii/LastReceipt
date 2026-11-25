@@ -14,9 +14,14 @@
     "@remotion/cli": "4.0.547",
     "@remotion/fonts": "^4.0.547",
     "@remotion/media-utils": "^4.0.547",
+    "@types/d3-geo": "^3.1.1",
+    "@types/topojson-client": "^3.1.5",
+    "d3-geo": "^3.1.2",
     "react": "19.3.1",
     "react-dom": "19.3.1",
-    "remotion": "4.0.547"
+    "remotion": "4.0.547",
+    "topojson-client": "^3.1.0",
+    "us-atlas": "^3.0.1"
   },
   "devDependencies": {
     "@remotion/eslint-config-flat": "4.0.547",

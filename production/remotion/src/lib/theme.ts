@@ -11,6 +11,7 @@ export const C = {
   warm: "#2A1F14",
   red: "#A8261C",
   cream: "#F3EEE3",
+  blueInk: "#23406E",
 };
 
 export const MONO = "Plex Mono";
