@@ -13,19 +13,19 @@ const H = 1080;
 
 const MAP_SRC = "Illustration: dots are not exact store sites. Map: US Census Bureau via us-atlas.";
 
-const G03 = () => (
+export const G03 = () => (
   <Sheet id="g03" kicker="1985 to 1994" title="One store in Dallas, then everywhere" source={MAP_SRC}>
     <StoreMap mode="spread" years={[1985, 1994]} run={[20, 160]} />
   </Sheet>
 );
 
-const G15 = () => (
+export const G15 = () => (
   <Sheet id="g15" kicker="2004 to 2019" title="Thousands of stores, then one" source={MAP_SRC}>
     <StoreMap mode="shrink" years={[2004, 2019]} run={[20, 170]} />
   </Sheet>
 );
 
-const G07 = () => (
+export const G07 = () => (
   <Sheet
     id="g07"
     kicker="Share of US homes"
@@ -60,7 +60,7 @@ const G07 = () => (
   </Sheet>
 );
 
-const G08 = () => (
+export const G08 = () => (
   <Sheet
     id="g08"
     kicker="Long-term debt, year end"
@@ -108,7 +108,7 @@ const subsTicks = [
 const subsY = [0, 2, 4, 6, 8].map((v) => ({ v, label: v === 8 ? "8M" : String(v) }));
 const SUBS_SRC = "Sources: Netflix and Blockbuster SEC filings; Forbes, Jul 2007; AP, 2007. Subscribers at quarter end.";
 
-const G10 = () => (
+export const G10 = () => (
   <Sheet id="g10" kicker="Subscribers, millions" title="Blockbuster Online closes in" source={SUBS_SRC}>
     <LineChart
       x={[2006.95, 2008.4]}
@@ -127,7 +127,7 @@ const G10 = () => (
   </Sheet>
 );
 
-const G13 = () => (
+export const G13 = () => (
   <Sheet id="g13" kicker="Subscribers, millions" title="Then the lines split" source={SUBS_SRC}>
     <LineChart
       x={[2006.95, 2008.4]}
@@ -145,7 +145,7 @@ const G13 = () => (
   </Sheet>
 );
 
-const G12 = () => (
+export const G12 = () => (
   <Sheet id="g12" kicker="2005 to 2007" title="One company, two plans" source="">
     <TugOfWar />
   </Sheet>

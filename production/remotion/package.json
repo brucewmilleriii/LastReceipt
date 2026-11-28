@@ -35,7 +35,10 @@
     "dev": "remotion studio",
     "build": "remotion bundle",
     "upgrade": "remotion upgrade",
-    "lint": "eslint src && tsc"
+    "lint": "eslint src && tsc",
+    "w01:fetch": "node scripts/w01_fetch.mjs",
+    "w01:captions": "node scripts/w01_captions.mjs",
+    "w01:render": "remotion render W01-Edit out/W01_Blockbuster.mp4 --crf=18 --audio-bitrate=320k"
   },
   "allowScripts": {
     "esbuild": false
